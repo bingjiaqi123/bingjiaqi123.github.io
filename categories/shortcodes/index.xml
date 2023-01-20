@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shortcodes on Even - A super concise theme for Hugo</title>
-    <link>https://bingjiaqi123.github.io/categories/shortcodes/</link>
+    <link>http://bingjiaqi123.github.io/categories/shortcodes/</link>
     <description>Recent content in shortcodes on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Aug 2016 16:01:23 +0800</lastBuildDate><atom:link href="https://bingjiaqi123.github.io/categories/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2016 16:01:23 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/categories/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes</title>
-      <link>https://bingjiaqi123.github.io/post/shortcodes/</link>
+      <link>http://bingjiaqi123.github.io/post/shortcodes/</link>
       <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
       
-      <guid>https://bingjiaqi123.github.io/post/shortcodes/</guid>
+      <guid>http://bingjiaqi123.github.io/post/shortcodes/</guid>
       <description>&lt;h1 id=&#34;admonition&#34;&gt;Admonition&lt;/h1&gt;
 &lt;div class=&#34;admonition note&#34;&gt;&lt;p class=&#34;admonition-title&#34;&gt;I&amp;#39;m title!&lt;/p&gt;
 &lt;p&gt;biu biu biu.&lt;/p&gt;
