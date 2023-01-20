@@ -6,7 +6,7 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2023 09:03:32 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 09:09:56 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>http://bingjiaqi123.github.io/post/even-preview/</link>
@@ -26,6 +26,15 @@ Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplic
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
 Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>第二次实验</title>
+      <link>http://bingjiaqi123.github.io/posts/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C/</link>
+      <pubDate>Fri, 20 Jan 2023 09:09:56 +0800</pubDate>
+      
+      <guid>http://bingjiaqi123.github.io/posts/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C/</guid>
+      <description></description>
     </item>
     
     <item>
