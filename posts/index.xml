@@ -6,14 +6,23 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2023 08:59:34 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 10:23:19 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记录更换blog文件夹位置后的报错经历</title>
       <link>http://bingjiaqi123.github.io/posts/%E8%AE%B0%E5%BD%95%E6%9B%B4%E6%8D%A2blog%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BD%8D%E7%BD%AE%E5%90%8E%E7%9A%84%E6%8A%A5%E9%94%99%E7%BB%8F%E5%8E%86/</link>
-      <pubDate>Fri, 20 Jan 2023 08:59:34 +0800</pubDate>
+      <pubDate>Sat, 21 Jan 2023 10:23:19 +0800</pubDate>
       
       <guid>http://bingjiaqi123.github.io/posts/%E8%AE%B0%E5%BD%95%E6%9B%B4%E6%8D%A2blog%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BD%8D%E7%BD%AE%E5%90%8E%E7%9A%84%E6%8A%A5%E9%94%99%E7%BB%8F%E5%8E%86/</guid>
-      <description></description>
+      <description>实验中</description>
+    </item>
+    
+    <item>
+      <title>实验</title>
+      <link>http://bingjiaqi123.github.io/posts/%E5%AE%9E%E9%AA%8C/</link>
+      <pubDate>Sat, 21 Jan 2023 10:22:04 +0800</pubDate>
+      
+      <guid>http://bingjiaqi123.github.io/posts/%E5%AE%9E%E9%AA%8C/</guid>
+      <description>实验</description>
     </item>
     
     <item>
@@ -41,15 +50,6 @@
 3.
 注意事项 仓库命名的时候用小写英文
 第四段：仙界寻妃 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://bingjiaqi123.github.io/posts/%E5%A4%96%E6%8E%A5%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE%E9%85%8D%E7%BD%AE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bingjiaqi123.github.io/posts/%E5%A4%96%E6%8E%A5%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE%E9%85%8D%E7%BD%AE/</guid>
-      <description>vscode-fileheader 在文章顶部自动插入作者名和时间戳 Ctrl+Alt+I 暂时是默认层6列3行 Insert Time Stamp 自动插入当前时间 Ctrl+F5 Ctrl+Fn+F5 暂时是1层6列3行</description>
     </item>
     
   </channel>
