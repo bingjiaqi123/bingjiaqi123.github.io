@@ -6,7 +6,7 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 19:10:33 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 23:06:05 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://bingjiaqi123.github.io/about/</link>
@@ -16,6 +16,35 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
 Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>《拖拉一点又何妨》</title>
+      <link>http://bingjiaqi123.github.io/post/%E6%8B%96%E6%8B%89%E4%B8%80%E7%82%B9%E5%8F%88%E4%BD%95%E5%A6%A8/</link>
+      <pubDate>Sat, 21 Jan 2023 23:06:05 +0800</pubDate>
+      
+      <guid>http://bingjiaqi123.github.io/post/%E6%8B%96%E6%8B%89%E4%B8%80%E7%82%B9%E5%8F%88%E4%BD%95%E5%A6%A8/</guid>
+      <description>抱着写出《全世界最烂的论文》的心态迅速完成初稿，然后再改两遍，就能得到优秀。
+烂的开始是完成的一半。当你为质量而忧虑，迟迟无法迈出第一步时，不妨允许自己迈出最烂的第一步，如果这一小步能帮你争取到时间，那么“烂开始“就能转化成“好结束”。
+找一件有聊的事情绑在无聊或者看似无聊的事情上一起做。比如跑步的时候听有声书。
+等到某件肯定会发生的、能打断自己的事情快来了的时候再上网。
+结构化拖延法的核心在于抓住人类渴望及时行乐，对未来充满理想却又害怕无聊的特点
+当我们的to do list不够长的时候，就很难找到匹配现在状态的任务
+平摊型处理法
+任务验伤选择法
+右括号缺失症
+罗伯特·本奇利：只要某件工作不是某人当时本该做的事，不管工作量多大，他都能够完成。
+第一，有明确的截止日期（但实际上并没有）
+第二，看似重要的不得了（但实际上并不是）
+金字塔式传销，为夸大重要性、虚设截止日期的任务投入精力，同时让自己相信这些任务的确重要又紧迫
+拖延人士都有一流的自欺本领，还有什么比利用一种性格缺陷去抵消另一种性格缺陷的负面影响更高贵吗？
+对于一件无需做到完美的任务，就不去苛求完美了。问问自己，把这件事做到完美无缺，有多大意义？比起“蛮好”的结果，“完美”会更有用处吗？比起一般般又如何呢？再问问自己，在这件事上，我真愿意做到完美无瑕的可能性有多大？结果完美与否对我来说有多大差别？对别人呢？允许自己把事情做的比完美差一点，也不要坐等任务过期
+当日待办事项清单，最重要的是把大任务拆成小块，把不要做的事情也列上去。
+1.关掉闹钟 2.别按小睡按钮 3.起床 4.去浴室 5.别回来躺下 6.下楼 7.煮咖啡 8.倒第二杯咖啡 9.在桌子旁坐下，不要窝在沙发里 打开电脑 不要看邮件 不要上网乱逛 打开Word文档 找到“达米特书评”那个文件夹，打开 比如看过一部电影后把” 不要去查女主角“写在日程表上，要想不浪费太多时间，最好的办法就是先把” 不要去查女主角“记在清单上。把其他可能会让人分心的事情也记下来，提醒自己别做
+必须提前把这个待办清单写好，比如前一天晚上，然后放在每天早晨的闹钟旁
+可现在呢，总有那么一拨人，刚一收到你的回复就马上又给你回了一封信，把球又踢了回来，这让拖延者沮丧透了，他还没来得及称赞一下自己刚处理了一封邮件呢，对方的回复又来了
+称赞你的搭档，夸他们做得真棒，把这当成你的正经事，要确保他们知道，你很清楚他们在你拖拖拉拉的时候干了多少活。
+最让人讨厌的拖延行为，往往是那些为了证明你不受他人控制的举动</description>
     </item>
     
     <item>
