@@ -6,32 +6,14 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 10:23:19 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 00:08:14 +0800</lastBuildDate><atom:link href="http://bingjiaqi123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>记录更换blog文件夹位置后的报错经历</title>
-      <link>http://bingjiaqi123.github.io/post/%E8%AE%B0%E5%BD%95%E6%9B%B4%E6%8D%A2blog%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BD%8D%E7%BD%AE%E5%90%8E%E7%9A%84%E6%8A%A5%E9%94%99%E7%BB%8F%E5%8E%86/</link>
-      <pubDate>Sat, 21 Jan 2023 10:23:19 +0800</pubDate>
-      
-      <guid>http://bingjiaqi123.github.io/post/%E8%AE%B0%E5%BD%95%E6%9B%B4%E6%8D%A2blog%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BD%8D%E7%BD%AE%E5%90%8E%E7%9A%84%E6%8A%A5%E9%94%99%E7%BB%8F%E5%8E%86/</guid>
-      <description>实验中</description>
-    </item>
-    
-    <item>
-      <title>实验</title>
-      <link>http://bingjiaqi123.github.io/post/%E5%AE%9E%E9%AA%8C/</link>
-      <pubDate>Sat, 21 Jan 2023 10:22:04 +0800</pubDate>
-      
-      <guid>http://bingjiaqi123.github.io/post/%E5%AE%9E%E9%AA%8C/</guid>
-      <description>实验</description>
-    </item>
-    
-    <item>
-      <title>把hugo生成的网页托管到Github</title>
+      <title>Test</title>
       <link>http://bingjiaqi123.github.io/post/%E6%8A%8Ahugo%E7%94%9F%E6%88%90%E7%9A%84%E7%BD%91%E9%A1%B5%E6%89%98%E7%AE%A1%E5%88%B0github/</link>
-      <pubDate>Thu, 19 Jan 2023 01:37:56 +0800</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:08:14 +0800</pubDate>
       
       <guid>http://bingjiaqi123.github.io/post/%E6%8A%8Ahugo%E7%94%9F%E6%88%90%E7%9A%84%E7%BD%91%E9%A1%B5%E6%89%98%E7%AE%A1%E5%88%B0github/</guid>
-      <description> 必要的条件 安装并配置git
+      <description>必要的条件 安装并配置git
 安装并配置hugo
 一个与Github账号同名的空仓库
 一个用hugo建立的网站文件夹
@@ -47,9 +29,7 @@
 （1）点击链接https://github.com/bingjiaqi123/bingjiaqi123.github.io/settings/pages
 （2）点击Settings（设置），点击左栏的Pages(页面)
 2.点击Build and deployment（构建和部署），在Source（源）里选择Deploy from a branch（从分支部署），在Branch（分支）里选择main，/root，点击Save
-3.
-注意事项 仓库命名的时候用小写英文
-第四段：仙界寻妃 </description>
+注意事项 仓库命名的时候用小写英文</description>
     </item>
     
   </channel>
