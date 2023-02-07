@@ -1,0 +1,29 @@
+# Site settings
+name: 佳奇的学习生活wiki
+email: bingjiaqi2022@163.com
+author: Jiaqi
+url: http://bingjiaqi123.github.io
+resume_site: http://bingjiaqi23.github.io/me/
+github: https://github.com/bingjiaqi123
+baseurl: ""  #根目录
+description: 若得山花插满头，莫问奴归处。
+motto: 人生如逆旅，我亦是行人。
+#motto: 人生如逆旅，我亦是行人。
+banner: 少年易老学难成，一寸光阴不可轻。
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+excerpt_separator:  '<!-- more -->' #文章摘要
+paginate: 8
+paginate_path: "page:num"
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+github_username: bingjiaqi123
+highlighter: rouge
+paginate: 8
+markdown: kramdown
+exclude: [Rakefile]
+FB:
+  comments :
+    provider : disqus
+    disqus :
+        short_name : jiaqi
