@@ -1,0 +1,1353 @@
+[
+  
+    {
+      "title"    : "2023-02-06-Obsidian表格最优路径",
+      "category" : "Obsidian",
+      "description" : "",
+      "tags"     : "分号;第一",
+      "url"      : "/2023/02/06/Obsidian%E8%A1%A8%E6%A0%BC%E6%9C%80%E4%BC%98%E8%B7%AF%E5%BE%84/",
+      "date"     : "2023-02-06 20:39:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "zk笔记",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/06/zk%E7%AC%94%E8%AE%B0/",
+      "date"     : "2023-02-06 17:24:00 +0800",
+      "content"  : "line:(Obsidian) file:2023file:2021 section:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) file:2021 block:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) file:2021 line:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) "
+    } ,
+  
+    {
+      "title"    : "2023-02-06-Obsidian空间优化",
+      "category" : "",
+      "description" : "",
+      "tags"     : "逗号,第二",
+      "url"      : "/2023/02/06/Obsidian%E7%A9%BA%E9%97%B4%E4%BC%98%E5%8C%96/",
+      "date"     : "2023-02-06 08:01:00 +0800",
+      "content"  : "2023-01-27-Obsidian折叠块生成name 按钮type commandaction 按钮: 创建新按钮VBS转EXE在线示意图网站"
+    } ,
+  
+    {
+      "title"    : "快捷键",
+      "category" : "",
+      "description" : "",
+      "tags"     : "空格, 第三",
+      "url"      : "/2023/02/06/%E5%BF%AB%E6%8D%B7%E9%94%AE/",
+      "date"     : "2023-02-06 00:04:00 +0800",
+      "content"  : "Ctrl↑折叠标题Obsidian表格最优路径那个长链接转“更多"
+    } ,
+  
+    {
+      "title"    : "新建 markdown",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/06/%E6%96%B0%E5%BB%BA-Markdown/",
+      "date"     : "2023-02-06 00:00:00 +0800",
+      "content"  : "Parse error: Unclosed ‘(‘ on line 442 in C:#92;xampp#92;htdocs#92;hugoblog#92;wp-login.php on line 454鼠标选中这个文件名，鼠标中键搜索，在弹出的everything窗口里看一下路径，双击打开（设置默认用vscode打开）去442行和454行，看哪里是红的就改哪个，多半是缺半个括号。"
+    } ,
+  
+    {
+      "title"    : "手机端插件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "分号空格, ;, 第四",
+      "url"      : "/2023/02/05/%E6%89%8B%E6%9C%BA%E7%AB%AF%E6%8F%92%E4%BB%B6/",
+      "date"     : "2023-02-05 23:49:00 +0800",
+      "content"  : "1 必用插件2023-01-24-在线示意图网站1.1 Easytype  1          2      3      4      5      至少可以自动在英语和中文之间加空格。2023-02-03-VBS转EXE1.2 Template一键下拉加页眉很舒服。1.3 汉化不用提了1.4 Danamyc toc手机端的小屏幕用来跳转太方便了，还可以配合 template 一起。1.5 Number Heading只要打开自动编号就没白弄1.6 Auto link title自动粘贴链接名字1.7 Quick Add至少可以真正给文章取名字2 必删插件2.1 Ozan’s Image手机端并不能做到2.2 Enhance editing手机又不能用快捷键2.3 Upload image手机剪贴板根本不支持粘贴图片2.4 Buttons也是一个离了快捷键活不了的2.5 Discordian开启关闭没有差别"
+    } ,
+  
+    {
+      "title"    : "增强编辑插件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/05/%E5%A2%9E%E5%BC%BA%E7%BC%96%E8%BE%91%E6%8F%92%E4%BB%B6/",
+      "date"     : "2023-02-05 09:47:00 +0800",
+      "content"  : "不能调整快捷键和内容D:#92;Users#92;75722#92;logseqObsidian 表格最优路径"
+    } ,
+  
+    {
+      "title"    : "同步盘",
+      "category" : "",
+      "description" : "",
+      "tags"     : "逗号空格, ;, 第五",
+      "url"      : "/2023/02/05/%E5%90%8C%E6%AD%A5%E7%9B%98/",
+      "date"     : "2023-02-05 09:39:00 +0800",
+      "content"  : "折叠标题不含云桥的旧版连不上服务器葫芦派吹得很好，但是特别卡，也不能 2 元包年Teracloud 配置不了Box 连不上，"
+    } ,
+  
+    {
+      "title"    : "2023-02-04-Jekyll网页代码块一键复制功能",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/03/Jekyll%E7%BD%91%E9%A1%B5%E4%BB%A3%E7%A0%81%E5%9D%97%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/",
+      "date"     : "2023-02-03 14:56:00 +0800",
+      "content"  : "下载插件到E:#92;blog.source#92;jekyll_site#92;js#92;clipboard.min.js在E:#92;blog.source#92;jekyll_site#92;_includes#92;footer.html里添加lt;!-- 代码块复制功能 --gt;lt;script type=text/javascript src=/js/clipboard.min.jsgt;lt;/scriptgt;1 参考CSDN文章我的网站搭建 (第23天) 代码块复制功能 - 代码打碟手 - OSCHINA - 中文开源技术交流社区"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-Github博客一键提交的文件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/03/Github%E5%8D%9A%E5%AE%A2%E4%B8%80%E9%94%AE%E6%8F%90%E4%BA%A4%E7%9A%84%E6%96%87%E4%BB%B6/",
+      "date"     : "2023-02-03 12:31:00 +0800",
+      "content"  : "cd jekyll_sitecd _postsfor i in (*.md) do ren i date-imove *.md E:#92;blog.source#92;jekyll_site#92;_posts#92;done#92;cd ..sh dep.shcd ..cd compiled_siteecho offfor /D i in (*) DO (    if not i==.git (            rd /S /Q i    ))for i in (*) DO (    if not i==deploy.sh (        if not i==.nojekyll (            del i         )     ))Xcopy  E:#92;blog.source#92;jekyll_site#92;_site E:#92;blog.source#92;compiled_site /y /e /i /qsh deploy.sh"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-gitee上传超过100mb的文件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/02/gitee%E4%B8%8A%E4%BC%A0%E8%B6%85%E8%BF%87100mb%E7%9A%84%E6%96%87%E4%BB%B6/",
+      "date"     : "2023-02-02 17:23:00 +0800",
+      "content"  : "参考CSDN文章如何使用git上传文件到gitee以及大项目文件（超过100MB的文件如传送）冲锋的禾的博客-CSDN博客"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-Bat转Exe",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/02/Bat%E8%BD%ACExe/",
+      "date"     : "2023-02-02 08:30:00 +0800",
+      "content"  : "Bat To Exe Converter"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-VBS转EXE",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/02/VBS%E8%BD%ACEXE/",
+      "date"     : "2023-02-02 07:59:00 +0800",
+      "content"  : "1 推荐的软件1.1 vbs to exe1.1.1 优点1. 确实能免费转格式2. 默认在当前文件夹选择，很方便 ### 1.1.2 缺点1. 文件名必须是全英文，不能是中文的2. 运行时自动打开cmd命令窗，看起来不好看1.1.3 来源1.1.3.1.1 点击下载点击下载1.1.3.1.2 百度网盘下载百度网盘下载提取码: 59ck1.1.3.1.3 阿里云文章VBS转化为exe可执行文件-阿里云开发者社区 (aliyun.com)1.2 BAT2EXE1.2.1 优点      可以编译cmd、bat、vbs三种类型        可以编译任意名字的文件  1.2.2 缺点杀软报毒1.2.3 来源1.2.3.1 点击下载点击下载1.2.3.2 蓝奏云下载BAT2EXE.exe - 蓝奏云 (lanzouj.com)1.2.3.3 帖子bat/vbs转exe - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn2 避雷的软件2.1 ScriptCryptor没有64位格式，根本不能用"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-vbs写计算器",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/vbs%E5%86%99%E8%AE%A1%E7%AE%97%E5%99%A8/",
+      "date"     : "2023-02-01 11:43:00 +0800",
+      "content"  : "基本（加减乘除）内容msgbox欢迎使用VBS计算器,,欢迎使用dim a,b,c,ma=inputbox(请输入第一个数字)c=inputbox(请输入计算符号)b=inputbox(请输入第二个数字)if c=+ then m=CDbl(a)+CDbl(b)if c=-then m=a-bif c=*then m=a*bif c=/then m=a/bmsgbox m,,计算完毕参考哔哩哔哩视频【vbs教程】从0开始学习VBS[第二课]使用if制作计算器_哔哩哔哩_bilibili"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-克服坏习惯的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E5%85%8B%E6%9C%8D%E5%9D%8F%E4%B9%A0%E6%83%AF%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-02-01 11:11:00 +0800",
+      "content"  : "冲动来了，就等待和呼吸，不要行动，当作体验这种感觉"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-vbs自定义弹窗生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/vbs%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%B9%E7%AA%97%E7%94%9F%E6%88%90/",
+      "date"     : "2023-02-01 10:48:00 +0800",
+      "content"  : "基础建立一个点击出现弹窗的文件内容X=Msgbox(今天轮你值班，设备都检查好了吗？,64,FormatDateTime(Now, vbLongDate))结构第一组引号里的是主要部分第二组引号里的是对话框样式第三组引号里的是窗口标题步骤新建txt文本文档，粘贴内容，文件-另存为-编码选择ANSI，名字是“xx.vbs”即可。优点不需要安装任何环境点击即可启动参考脚本之家文章windows电脑使用简单命令 实现个性化弹窗的技巧_电脑常识_电脑基础_脚本之家哔哩哔哩视频vbs教程1.制作对话框_哔哩哔哩_bilibili进阶对话框类型按钮类0只显示“确定”1显示“确定”“取消”2显示“中止”“重试”“忽略”3显示“是”“否“取消“4显示“是”“否5显示“重试”“取消”图标类16停止图标“x”32询问图标“？”48警告图标“!”64信息图标“i”按钮的默认0第1个按钮是默认按钮256第2个按钮是默认按钮512第3个按钮是默认按钮如果要组合，填相加后的数字。如警告图标+中止、重试、忽略+第3个按钮是默认按钮，填入48+2+512=562效果图"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-参考文献格式生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%BC%E5%BC%8F%E7%94%9F%E6%88%90/",
+      "date"     : "2023-02-01 10:26:00 +0800",
+      "content"  : "一般参考文献格式生成器优点确实可以复制参考文献缺点不能批量复制，也不能一键复制，必须点Edit再全选复制避雷学术堂参考文献自动生成【参考文献自动生成】论文参考文献自动生成器_学术堂原因：实际上不支持复制生成的内容Site this for me  [!TIP] 原因  全英文界面  操作奇怪  生成的中文奇怪MLA 参考文献格式自动生成器(免费) | Wordvice  [!TIP] 原因  生成不能复制  界面右下角有一个客服窗口，很不安全笔杆网参考文献自动生成_参考文献格式生成器_笔杆网  [!TIP] 原因  只能生成期刊  主要针对检索的，生成得另外点开其他In-Text Citations: The Basics - Purdue OWL® - Purdue University全英文、要权限bibliography404Site Unreachable全英文            [Free APA Citation Generator      With APA Format Guide - Scribbr](https://www.scribbr.com/citation/generator/apa/)      全英文，只有APA            [Login      EasyBib](https://www.easybib.com/login)      需要注册登录才能用，看着也是全英文"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-hugo网页实现搜索功能",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/hugo%E7%BD%91%E9%A1%B5%E5%AE%9E%E7%8E%B0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD/",
+      "date"     : "2023-02-01 10:23:00 +0800",
+      "content"  : "参考CSDN文章Hugo 实现搜索功能小白教程"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-Github 生成SSH秘钥",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/Github-%E7%94%9F%E6%88%90SSH%E7%A7%98%E9%92%A5/",
+      "date"     : "2023-02-01 10:23:00 +0800",
+      "content"  : "参考CSDN文章Github 生成SSH秘钥（详细教程）_孙文旭的博客-CSDN博客"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-中国传媒大学研招网",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E7%A0%94%E6%8B%9B%E7%BD%91/",
+      "date"     : "2023-02-01 10:19:00 +0800",
+      "content"  : "研究生招生网"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-hugo主题推荐",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/",
+      "date"     : "2023-02-01 09:49:00 +0800",
+      "content"  : "主题官网Complete List | Hugo Themes推荐的主题博客类ink-free效果图Icarus-Lite效果图smigle效果图Eureka效果图Flat效果图简历Simple CV效果图Resume A4效果图"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-气泡类待办任务app",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E6%B0%94%E6%B3%A1%E7%B1%BB%E5%BE%85%E5%8A%9E%E4%BB%BB%E5%8A%A1app/",
+      "date"     : "2023-02-01 09:40:00 +0800",
+      "content"  : "推荐的app待办泡泡  [!TIP] 优点  免费  泡泡可以设置级别来调整大小  泡泡样式形状可调整下载链接：点击下载apk避雷的app水球清单虽然更出名，但是太贵了，永久版要89元，而且没用几天岛的功能就失效了。  [!TIP] 优点  可以设置分清单，但是没什么意义  有宝箱、钥匙、建筑、人物、岛等各个功能  [!TIP] 缺点  岛用了一阵就打不开了  贵  气泡形状不可调整"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-打开飞书手机端扫一扫的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E6%89%93%E5%BC%80%E9%A3%9E%E4%B9%A6%E6%89%8B%E6%9C%BA%E7%AB%AF%E6%89%AB%E4%B8%80%E6%89%AB%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-02-01 09:40:00 +0800",
+      "content"  : "更多-消息，再点右上角就有扫一扫了"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-使用Github开源项目的注意事项",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E4%BD%BF%E7%94%A8Github%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/",
+      "date"     : "2023-02-01 09:40:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-03-好用的剪贴板工具",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/%E5%A5%BD%E7%94%A8%E7%9A%84%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/",
+      "date"     : "2023-02-01 09:08:00 +0800",
+      "content"  : "推荐的工具插件类pagenote一页一记类型：Edge浏览器插件优点：复制的文本在剪贴板里自带原来的网页，可以在整理的时候去看快捷键：Alt+Shift+2超级剪贴板类型：utools插件  [!TIP] 优点  不需要配置  可以保存图片、文件等  理论上可以跨设备（电脑）粘贴 ^d93sj7注意事项：需要设置”跟随主程序同时启动“（我的插件应用-超级剪贴板-齿轮）快捷键：Alt+C（打开剪贴板）本地路径：E:#92;Settings#92;plugin#92;utools#92;超级剪贴板#92;_utools_clipboard_manager_storage安装方法：utools插件市场搜索剪贴板，选择超级剪贴板并下载系统类windows11自带剪贴板，在设置-系统-剪贴板里，点击开启即可。![[好用的剪贴板工具#^d93sj7]]快捷键：win+V（打开剪贴板）安装方法：不需要安装"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-logseq笔记搬运到Obsidian的变化",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/01/logseq%E7%AC%94%E8%AE%B0%E6%90%AC%E8%BF%90%E5%88%B0Obsidian%E7%9A%84%E5%8F%98%E5%8C%96/",
+      "date"     : "2023-02-01 09:06:00 +0800",
+      "content"  : "高亮符号变化==1==变^^1^^"
+    } ,
+  
+    {
+      "title"    : "2023-02-03-utools多行合并脚本优化",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/30/utools%E5%A4%9A%E8%A1%8C%E5%90%88%E5%B9%B6%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96/",
+      "date"     : "2023-01-30 16:06:00 +0800",
+      "content"  : "1 需求分析我的需求是截图ocr文字去除空行后直接粘贴到需要的位置。2 第一次优化发现“去除所有空格”脚本本身可以替代多行满足需求。3 第二次优化发现“白描”脚本本身可以去除很多空格保留合适的格式，并且发现我有白描的永久会员，但是第二天发现要正常使用必须在网页端登录。4 第三次优化发现可以在脚本里用快捷键，所以加上了全选和复制功能，不要再次全选和点击复制了。"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-使用Github开源项目的注意事项",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/29/%E4%BD%BF%E7%94%A8Github%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/",
+      "date"     : "2023-01-29 08:05:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Pip包管理器换源",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Pip%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8%E6%8D%A2%E6%BA%90/",
+      "date"     : "2023-01-28 21:21:00 +0800",
+      "content"  : "pip config set global.index-url https://mirrors.aliyun.com/pypi/simple参考bilibil视频Windows安装配置Python_哔哩哔哩_bilibili"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-运行Python代码",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%BF%90%E8%A1%8CPython%E4%BB%A3%E7%A0%81/",
+      "date"     : "2023-01-28 21:20:00 +0800",
+      "content"  : "Ctrl+Fn+F5参考bilibil视频Windows安装配置Python_哔哩哔哩_bilibili"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-退出Python界面的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E9%80%80%E5%87%BAPython%E7%95%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-28 21:17:00 +0800",
+      "content"  : "Ctrl+Z参考bilibil视频Windows安装配置Python_哔哩哔哩_bilibili"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-查看电脑是64位还是32位",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%9F%A5%E7%9C%8B%E7%94%B5%E8%84%91%E6%98%AF64%E4%BD%8D%E8%BF%98%E6%98%AF32%E4%BD%8D/",
+      "date"     : "2023-01-28 20:36:00 +0800",
+      "content"  : "参考bilibil视频Windows安装配置Python_哔哩哔哩_bilibili"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-论文取标题",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%AE%BA%E6%96%87%E5%8F%96%E6%A0%87%E9%A2%98/",
+      "date"     : "2023-01-28 19:53:00 +0800",
+      "content"  : "自然语言处理黑科技：输入论文摘要，AI自动生成论文标题"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-期刊投稿",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%9C%9F%E5%88%8A%E6%8A%95%E7%A8%BF/",
+      "date"     : "2023-01-28 19:53:00 +0800",
+      "content"  : "自然语言处理黑科技：输入论文摘要，AI自动生成关键词，帮你选投稿的期刊"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-软件网站",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%BD%AF%E4%BB%B6%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-01-28 19:49:00 +0800",
+      "content"  : "避雷423Down里面的软件要么没链接要么太小众"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-免费图片素材",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%85%8D%E8%B4%B9%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/",
+      "date"     : "2023-01-28 19:47:00 +0800",
+      "content"  : "            [Beautiful Free Images amp; Pictures      Unsplash](https://unsplash.com/)      免费素材图片免费正版高清图片素材库 超过2.7百万张优质图片和视频素材可供免费使用和下载 - Pixabay - Pixabay"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-在线影视制作",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E5%BD%B1%E8%A7%86%E5%88%B6%E4%BD%9C/",
+      "date"     : "2023-01-28 19:46:00 +0800",
+      "content"  : "1 奇迹秀工具箱集成性很强"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-PPT资源导航",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/PPT%E8%B5%84%E6%BA%90%E5%AF%BC%E8%88%AA/",
+      "date"     : "2023-01-28 19:41:00 +0800",
+      "content"  : "            [HiPPTER      PPT资源导航      PPT模板图表等设计素材免费下载](http://www.hippter.com/)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-AE插件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/AE%E6%8F%92%E4%BB%B6/",
+      "date"     : "2023-01-28 19:41:00 +0800",
+      "content"  : "AE插件脚本下载_PS滤镜预设下载-幕后Muhou"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-声音素材",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%A3%B0%E9%9F%B3%E7%B4%A0%E6%9D%90/",
+      "date"     : "2023-01-28 19:40:00 +0800",
+      "content"  : "            [淘声网 - toSound声音搜索引擎 - 免费音效素材资源      视频游戏配乐下载](https://www.tosound.com/)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-双链笔记",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%8F%8C%E9%93%BE%E7%AC%94%E8%AE%B0/",
+      "date"     : "2023-01-28 19:39:00 +0800",
+      "content"  : "RoamEdit RoamEdit 双向链接大纲笔记工具"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-在线时间轴制作",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E6%97%B6%E9%97%B4%E8%BD%B4%E5%88%B6%E4%BD%9C/",
+      "date"     : "2023-01-28 19:38:00 +0800",
+      "content"  : "Timeline editor"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Word设置无格式粘贴快捷键",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Word%E8%AE%BE%E7%BD%AE%E6%97%A0%E6%A0%BC%E5%BC%8F%E7%B2%98%E8%B4%B4%E5%BF%AB%E6%8D%B7%E9%94%AE/",
+      "date"     : "2023-01-28 19:27:00 +0800",
+      "content"  : "建议的方法录制宏参考百度经验word文档中设置无格式粘贴快捷键-百度经验"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-项目文件打包",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E6%89%93%E5%8C%85/",
+      "date"     : "2023-01-28 19:18:00 +0800",
+      "content"  : "npm run-script build打包后的项目会有一个dist文件夹，把这个文件夹剪切到同步文件夹里参考CSDN文章（第十步）在GitHub上如何创建github.io_余一痴的博客-CSDN博客_github.io"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-同时提交到Github和Gitee",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%90%8C%E6%97%B6%E6%8F%90%E4%BA%A4%E5%88%B0Github%E5%92%8CGitee/",
+      "date"     : "2023-01-28 19:16:00 +0800",
+      "content"  : "参考CSDN文章git commit提示nothing to commit, working tree clean_树旅小爷的博客-CSDN博客_git代码提交无需提交,工作树干净"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-删除文件时提示正在被另一程序使用",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%97%B6%E6%8F%90%E7%A4%BA%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%8F%A6%E4%B8%80%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8/",
+      "date"     : "2023-01-28 19:15:00 +0800",
+      "content"  : "参考百度经验删除文件时提示正在被另一程序使用怎么办-百度经验"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Markdown语法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Markdown%E8%AF%AD%E6%B3%95/",
+      "date"     : "2023-01-28 19:12:00 +0800",
+      "content"  : "参考Markdown官方文档Markdown 官方教程"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Github Pages常见问题",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Github-Pages%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/",
+      "date"     : "2023-01-28 19:11:00 +0800",
+      "content"  : "参考CSDN文章github pages 无法加载css的问题_馋学习的身子的博客-CSDN博客_请问为什么我在github上不能加载出css样式呢?"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Docker安装",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Docker%E5%AE%89%E8%A3%85/",
+      "date"     : "2023-01-28 19:11:00 +0800",
+      "content"  : "参考CSDN文章Docker 安装 (完整详细版)"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-图标库",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9B%BE%E6%A0%87%E5%BA%93/",
+      "date"     : "2023-01-28 19:08:00 +0800",
+      "content"  : "推荐iconfonticonfont-阿里巴巴矢量图标库待试用iconparkByteDance IconPark"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-删除坚果云的同步文件夹",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%88%A0%E9%99%A4%E5%9D%9A%E6%9E%9C%E4%BA%91%E7%9A%84%E5%90%8C%E6%AD%A5%E6%96%87%E4%BB%B6%E5%A4%B9/",
+      "date"     : "2023-01-28 19:06:00 +0800",
+      "content"  : "参考            [如何删除坚果云里的同步文件夹？      坚果云帮助中心](https://help.jianguoyun.com/?p=1391)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Jekyll基础用法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Jekyll%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/",
+      "date"     : "2023-01-28 18:39:00 +0800",
+      "content"  : "参考CrispDev的个人博客            48 个你需要知道的 Jekyll 使用技巧      CrispDev](https://crispgm.com/page/48-tips-for-jekyll-you-should-know.html#:~:text=120E59FBAE4BA8E20Gem20E79A84E696B9E5BC8F20E5AFB9E4BA8EE5B7B2E7BB8FE58F91E5B883E588B020RubyGems20E79A84E68F92E4BBB6EFBC8CE68EA8E88D90E4BDBFE794A8E8BF99E7A78DE696B9E5BC8FE3808220E58FAAE99C80E8A681E59CA8,220E59FBAE4BA8EE69CACE59CB0E69687E4BBB620E5AFB9E4BA8EE6B2A1E69C89E58F91E5B883E79A84E68F92E4BBB6EFBC8CE58FAFE4BBA5E59CA820_plugins20E69687E4BBB6E5A4B9E4B8ADE79BB4E68EA5E5BC95E585A5202A.rb20Ruby20E6BA90E69687E4BBB6E38082)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-学编程",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%AD%A6%E7%BC%96%E7%A8%8B/",
+      "date"     : "2023-01-28 18:38:00 +0800",
+      "content"  : "菜鸟工具 - 不止于工具在线知识论坛WRITE-BUGWRITE-BUG - 助力学生高效编程学习的新一代平台"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Jekyll全文搜索设置",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Jekyll%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E8%AE%BE%E7%BD%AE/",
+      "date"     : "2023-01-28 18:35:00 +0800",
+      "content"  : "1 参考阿里云文章为Jekyll+GitHub Pages添加全文搜索功能-阿里云"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-使用docsify+github建立个人网站",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E4%BD%BF%E7%94%A8docsify+github%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-01-28 18:29:00 +0800",
+      "content"  : "参考简书文章使用docsify+github建立个人网站 - 简书"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Obsidian同步",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Obsidian%E5%90%8C%E6%AD%A5/",
+      "date"     : "2023-01-28 18:29:00 +0800",
+      "content"  : "参考知乎文章            [如何在手机端实现Obsidian笔记云同步      Obsidian实践 - 知乎](https://zhuanlan.zhihu.com/p/575748439)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Jekyll安装",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Jekyll%E5%AE%89%E8%A3%85/",
+      "date"     : "2023-01-28 18:27:00 +0800",
+      "content"  : "参考简书文章在windows下安装jekyll（一个很好地博客系统） - 简书"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Wordpress静态部署到GithubPages",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Wordpress%E9%9D%99%E6%80%81%E9%83%A8%E7%BD%B2%E5%88%B0GithubPages/",
+      "date"     : "2023-01-28 18:23:00 +0800",
+      "content"  : "参考知乎文章如何用GitHub开发WordPress(11步) - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-网站克隆",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E7%BD%91%E7%AB%99%E5%85%8B%E9%9A%86/",
+      "date"     : "2023-01-28 18:17:00 +0800",
+      "content"  : "试用的方法软件法HTTrack一款开源且超好用的网站克隆机 HTTrack - 知乎浏览器插件法webrecorder-archivewebpag所在路径`D:#92;DailyFiles#92;谷歌拓展程序#92;网页镜像#92;webrecorder-archivewebpag.crx下载地址插件下载安装-Chrome-扩展迷"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Wordpress建站（本地）",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Wordpress%E5%BB%BA%E7%AB%99-%E6%9C%AC%E5%9C%B0/",
+      "date"     : "2023-01-28 18:14:00 +0800",
+      "content"  : "推荐的方法XAMMP安装参考闪电博文章使用XAMPP本地搭建WordPress网站图文教程 - 闪电博其他的方法依次安装法参考知乎文章史上最详细的WordPress安装教程 - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-查DNS",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%9F%A5DNS/",
+      "date"     : "2023-01-28 17:59:00 +0800",
+      "content"  : "            [Dns检测      Dns查询 - 站长工具](https://tool.chinaz.com/dns)      DNS Lookup"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Github push报错整理",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Github-push%E6%8A%A5%E9%94%99%E6%95%B4%E7%90%86/",
+      "date"     : "2023-01-28 17:59:00 +0800",
+      "content"  : "Failed to connect to github.com port 443: Timed out连一下外网即可fatal: remote origin already exists.参考腾讯云文章fatal: remote origin already exists. (远程来源已经存在 解决办法) - 腾讯云开发者社区-腾讯云github Repository not found首先检查，多半是仓库名输错了。检查的方式：git remote -v如果没错，执行git credential-manager uninstallgit credential-manager install参考[1]博客园github Repository not found 解决办法 - 念宇儿 - 博客园[2]CSDN博客git命令报错fatal: repository ‘xxx.git/’ not found_Jack.dev的博客-CSDN博客_fatal: repository"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-windows全局命令",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/windows%E5%85%A8%E5%B1%80%E5%91%BD%E4%BB%A4/",
+      "date"     : "2023-01-28 17:57:00 +0800",
+      "content"  : "添加环境变量sysdm.cpl"
+    } ,
+  
+    {
+      "title"    : "电脑端限制安装特定软件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E7%94%B5%E8%84%91%E7%AB%AF%E9%99%90%E5%88%B6%E5%AE%89%E8%A3%85%E7%89%B9%E5%AE%9A%E8%BD%AF%E4%BB%B6/",
+      "date"     : "2023-01-28 17:49:00 +0800",
+      "content"  : "建议的方法安装RunBlock软件本地路径D:#92;ProgramFiles#92;Safe#92;RunBlock_v1.2#92;RunBlock.exe"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Obsidian插件templater的使用",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Obsidian%E6%8F%92%E4%BB%B6templater%E7%9A%84%E4%BD%BF%E7%94%A8/",
+      "date"     : "2023-01-28 17:41:00 +0800",
+      "content"  : "1 参考CSDN 文章 【obsidian系列】04.obsidian如何插入模板？插件：templater_安安csdn的博客/CSDN博客_obsidian 插入模板"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-excel合并单元格保留所有内容",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/excel%E5%90%88%E5%B9%B6%E5%8D%95%E5%85%83%E6%A0%BC%E4%BF%9D%E7%95%99%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9/",
+      "date"     : "2023-01-28 10:29:00 +0800",
+      "content"  : "建议的方法录制宏准备工作在EXCEL里点击视图，点击宏，点击录制宏，选择保存在个人工作表，勾选显示隐藏窗口。复制旧工作表的所有列，从B列开始粘贴，我是一直粘到了Z列，也就是一共25列。在个人工作表点击录制宏，名字是“长文本”。录制过程- 点击A1单元格，如果已经点击了就`Fn`+`F2`进入编辑模式- 输入`=CONCAT()`，按一下`←`键。- 鼠标选择A2单元格，键盘`Ctrl`+`Shift`+`→`- 回车- 点击A1单元格，双击填充柄。- 点击停止录制。使用打开Excel，默认进入个人工作表，在A2列起粘贴需要的数据，点击视图-宏-查看宏，点击“长文本”即可。一般的方法CONCAT 函数法语法：CONCAT(范围)公式：=CONCAT(A2:B2)再用填充柄参考百度经验Excel用公式进行文字合并方法-百度经验淘汰的方法连接符法比如原先的数据在A列、B列，点击C2单元格，输入公式：=A2amp;B2按回车键运行，用填充柄完成其他操作。参考百度经验excel合并单元格保留所有内容-百度经验"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-论文查重",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D/",
+      "date"     : "2023-01-28 10:21:00 +0800",
+      "content"  : "建议的方法知网查重知网个人查重服务便宜，但是每次查重率都是0维普查重维普论文查重系统贵一些，但是查重率更高，老师如果有要求就会是维普"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-在线作图",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%9B%BE/",
+      "date"     : "2023-01-28 10:19:00 +0800",
+      "content"  : "建议的方法【在线PS】PS软件网页版，ps在线图片处理工具photopea-稿定设计PS"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-长链接转短链接",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E9%95%BF%E9%93%BE%E6%8E%A5%E8%BD%AC%E7%9F%AD%E9%93%BE%E6%8E%A5/",
+      "date"     : "2023-01-28 10:14:00 +0800",
+      "content"  : "建议的方法通用短链接生成 - 在线工具箱用法粘贴链接，点击生成，点击短链接自动复制  [!TIP]- 以拼多多商品链接为例  转换前：  (https://mobile.yangkeduo.com/goods1.html?goods_id=419569354807amp;page_from=203amp;pxq_secret_key=VTDJUW4ZR6O6FT3KHQLIL73GNVBGLLH6KHC5BR2QCZB75YCOYGXAamp;_oak_share_snap_num=960amp;_oak_share_detail_id=2249186262amp;share_uin=O44Q7SGMRZXE4LWBCC3NGWDDLI_GEXDAamp;refer_share_id=baf950b939b34fb48985bcc35e6767d7amp;refer_share_uin=O44Q7SGMRZXE4LWBCC3NGWDDLI_GEXDAamp;refer_share_channel=copy_linkamp;refer_share_form=text)  转换后：  http://mtw.so/5RXgAC  不足不能转换个人网址和需要注册登录的网站。特殊登录 - 短链接不足需要登录免费版只能10个"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-音视频集成网站",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E9%9F%B3%E8%A7%86%E9%A2%91%E9%9B%86%E6%88%90%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-01-28 10:10:00 +0800",
+      "content"  : "123apps在线裁剪视频 - 裁剪 MP4、AVI、MPG、3GP"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-全局自动化软件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%85%A8%E5%B1%80%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BD%AF%E4%BB%B6/",
+      "date"     : "2023-01-28 10:08:00 +0800",
+      "content"  : "QuickerQuicker软件 您的指尖工具箱 - Quicker"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-字幕拼接",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%AD%97%E5%B9%95%E6%8B%BC%E6%8E%A5/",
+      "date"     : "2023-01-28 10:07:00 +0800",
+      "content"  : "截图拼接 - 电影字幕拼接工具"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-图片转JPG并优化",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9B%BE%E7%89%87%E8%BD%ACJPG%E5%B9%B6%E4%BC%98%E5%8C%96/",
+      "date"     : "2023-01-28 10:05:00 +0800",
+      "content"  : "            [Jpeg.io      Convert any major image format into a highly optimized JPEG](https://www.jpeg.io/)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-25-视频转GIF",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%A7%86%E9%A2%91%E8%BD%ACGIF/",
+      "date"     : "2023-01-28 10:02:00 +0800",
+      "content"  : "建议的方法在线网站我拉网视频转gif-视频怎么转gif-我拉网视频转gif软件可以转30秒图贴士在线视频转GIF软件_视频转GIF在线制作工具_图贴士集成软件即时工具视频工具-视频转gif"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-在线人像生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E4%BA%BA%E5%83%8F%E7%94%9F%E6%88%90/",
+      "date"     : "2023-01-28 10:00:00 +0800",
+      "content"  : "此人不存在This Person Does Not Exist"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-日文标罗马音",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%97%A5%E6%96%87%E6%A0%87%E7%BD%97%E9%A9%AC%E9%9F%B3/",
+      "date"     : "2023-01-28 09:59:00 +0800",
+      "content"  : "            [标注日文的罗马拼音工具      JCinfo.net](https://www.jcinfo.net/zh-hans/tools/ja-roman)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-25-知识效率集",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E7%9F%A5%E8%AF%86%E6%95%88%E7%8E%87%E9%9B%86/",
+      "date"     : "2023-01-28 09:58:00 +0800",
+      "content"  : "            [NOISE      知识效率集](https://www.noisesite.cn/)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-23-在线多维表格",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC/",
+      "date"     : "2023-01-28 09:56:00 +0800",
+      "content"  : "AirtableAirtable | Create apps that perfectly fit your team’s needs"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-在线图形笔记",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E5%9B%BE%E5%BD%A2%E7%AC%94%E8%AE%B0/",
+      "date"     : "2023-01-28 09:54:00 +0800",
+      "content"  : "氢图氢图 - 视觉笔记，可视化记录与思考"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-图片转卡通软件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9B%BE%E7%89%87%E8%BD%AC%E5%8D%A1%E9%80%9A%E8%BD%AF%E4%BB%B6/",
+      "date"     : "2023-01-28 09:45:00 +0800",
+      "content"  : "建议的软件醒图APP可以免费生成丰富的形象，而且每次都不一样prima cartoonizer中文免费版能用的效果有1（2.3.4.5要么不行要么只是和1有亮度的区别）、7（柔化的风格）、11（像填充的假脸）、13（比较夸张，不好看）、14（效果介于1.7之间）、15（折纸风格）、16（和1很像）来源知乎文章prima cartoonizer （图片转卡通软件）中文版分享 - 知乎下载地址http://bj.ddooo.com/primapj_167544.rar?key=c21a8fbec6e02e0e138bd808ea0a7b31amp;uskey=3eb35d79b95bba519ab950167d9fb752避雷Mini-AI开放平台小视科技 | Mini-AI开放平台理由上传图片后死活加载不出结果"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-古字",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%8F%A4%E5%AD%97/",
+      "date"     : "2023-01-28 09:20:00 +0800",
+      "content"  : "zi.tools 字統网"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-色板网站",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%89%B2%E6%9D%BF%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-01-28 09:18:00 +0800",
+      "content"  : "            [经典      KaKa 色板](https://afterwork-design.github.io/color-card/)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-26-在线设计工具",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/",
+      "date"     : "2023-01-28 09:13:00 +0800",
+      "content"  : "Castalia集成性很强设计百宝箱-全球高质量设计师网址导航大全Seeseed-无穷尽设计可能"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-二维码生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90/",
+      "date"     : "2023-01-28 09:11:00 +0800",
+      "content"  : "草料二维码生成器"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-一键抠图",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E4%B8%80%E9%94%AE%E6%8A%A0%E5%9B%BE/",
+      "date"     : "2023-01-28 09:09:00 +0800",
+      "content"  : "在线法建议的方法Erase尤其适合多个图层的，可以几乎无损地做出可以溶图的涂免費去背景軟體：在线抠图软件_图片去除背景 - Erase.bg佐糖可以一键换底色佐糖 - 免费在线图片处理工具_在线抠图_证件照换底色_去水印_照片修复一般的方法remove.bg在线去背景上传图片 – remove.bg软件法动起拍下载链接点击下载"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-词云生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E8%AF%8D%E4%BA%91%E7%94%9F%E6%88%90/",
+      "date"     : "2023-01-28 09:05:00 +0800",
+      "content"  : "在线工具词云制作 - 微词云"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-在线示意图网站",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BF%E7%A4%BA%E6%84%8F%E5%9B%BE%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-01-28 09:03:00 +0800",
+      "content"  : "1 避雷1.1 亿图图示要钱"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-习近平的书",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B9%A6/",
+      "date"     : "2023-01-28 09:01:00 +0800",
+      "content"  : "图书出版–中央党史和文献研究院官网"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-Zotero插件Zotfile安装",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Zotero%E6%8F%92%E4%BB%B6Zotfile%E5%AE%89%E8%A3%85/",
+      "date"     : "2023-01-28 08:57:00 +0800",
+      "content"  : "下载网站[Releases · jlegewie/zotfile](https://github.com/jlegewie/zotfile/releases本地位置E:#92;Settings#92;zotfile.xpi"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-Zotero安装配置",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Zotero%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-01-28 08:56:00 +0800",
+      "content"  : "参考知乎文章使用Zotero和免费云存储管理文献 - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-网页翻译插件",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6/",
+      "date"     : "2023-01-28 08:27:00 +0800",
+      "content"  : "一般的方法彩云小译 - 网页翻译插件翻译得很快，但是免费限额太少了下载链接点击下载所在路径D:#92;DailyFiles#92;谷歌拓展程序#92;翻译#92;彩云小译#92;xiaoyi.crx或D:#92;DailyFiles#92;谷歌拓展程序#92;翻译#92;彩云小译#92;jmpepeebcbihafjjadogphmbgiffiajh_1.8.0_chrome.zzzmh.cn.crx已排除火山翻译只能划词翻译，但是划词又不翻译所在路径D:#92;DailyFiles#92;谷歌拓展程序#92;翻译#92;火山翻译#92;火山翻译插件-最新版_V2.1.12.crx"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-学术工具",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%AD%A6%E6%9C%AF%E5%B7%A5%E5%85%B7/",
+      "date"     : "2023-01-28 08:10:00 +0800",
+      "content"  : "文献查找与管理Zotero"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-搜索引擎",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/",
+      "date"     : "2023-01-28 08:05:00 +0800",
+      "content"  : "1 高阶搜索搜索引擎 搜索规则设置"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-学Python",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%AD%A6Python/",
+      "date"     : "2023-01-28 08:03:00 +0800",
+      "content"  : "Python官方文档（可以设置为简体中文）3.10.9 Documentation"
+    } ,
+  
+    {
+      "title"    : "2023-01-25-在线logo生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%9C%A8%E7%BA%BFlogo%E7%94%9F%E6%88%90/",
+      "date"     : "2023-01-28 07:59:00 +0800",
+      "content"  : "Emblemmatic — MarkMaker"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-看外国新闻",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E7%9C%8B%E5%A4%96%E5%9B%BD%E6%96%B0%E9%97%BB/",
+      "date"     : "2023-01-28 07:41:00 +0800",
+      "content"  : "清单委内瑞拉新闻Venezuelanalysis.com - Venezuela News, Views, and AnalysisRéseau Voltaire            [      NACLA](https://nacla.org/node)      好像有一些中东的新闻DEC 22–JAN 23 – The Brooklyn Rail"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-搜数据",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E6%90%9C%E6%95%B0%E6%8D%AE/",
+      "date"     : "2023-01-28 07:23:00 +0800",
+      "content"  : "清单新商业Club-研报社会员目录（PC打开）可以从目录里看到最新的全行业数据调查报告，但打不开，只能按图索骥。华经情报网-华经产业研究院-专注大中华区产业经济情报与研究有一些互联网的数据和报告"
+    } ,
+  
+    {
+      "title"    : "2023-01-28-取消开机启动",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/%E5%8F%96%E6%B6%88%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8/",
+      "date"     : "2023-01-28 07:18:00 +0800",
+      "content"  : "建议的方法打开资源管理器，点击左栏的“启动”按钮，禁用即可。不建议的方法1. 开始-设置，2. 在Windows设置页面点击应用，3. 点击左侧启动栏，4. 取消勾选相应的应用"
+    } ,
+  
+    {
+      "title"    : "2023-01-28-ico图标获取",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/ico%E5%9B%BE%E6%A0%87%E8%8E%B7%E5%8F%96/",
+      "date"     : "2023-01-28 00:47:00 +0800",
+      "content"  : "基础在阿里巴巴矢量图标库里找到合适的图片iconfont-阿里巴巴矢量图标库选择以SVG格式下载SVG转ICOSVG转ICO - 免费在线将SVG文件转换成ICO拓展如果阿里巴巴矢量图标库的不够，就随便找一张PNG图片，或者JPG图片直接后缀名改成PNG。然后PNG转SVGPNG转SVG - 免费在线将PNG文件转换成SVG"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidian插件Dayplanner的用法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Obsidian%E6%8F%92%E4%BB%B6Dayplanner%E7%9A%84%E7%94%A8%E6%B3%95/",
+      "date"     : "2023-01-28 00:41:00 +0800",
+      "content"  : "参考知乎文章 Day Planners——高效日清单【玩转Obsidian的保姆级教程】 - 知乎下载来源Github Releases · lynchjames/obsidian-day-planner"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Obsidian打开大纲",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Obsidian%E6%89%93%E5%BC%80%E5%A4%A7%E7%BA%B2/",
+      "date"     : "2023-01-28 00:19:00 +0800",
+      "content"  : "建议的方法左边的栏点“快捷命令”按钮，输入检索词“大纲”，选择“打开大纲标签页”进阶在设置里打开核心插件中的bench插件，左边的栏点bench插件按钮，保存当前工作区布局，防止再次误关闭不建议的方法点右上角的三个竖点，选择“Open linked view”，选择“打开大纲”缺点打开的是当前页的大纲窗口，而不是默认的右边大纲。"
+    } ,
+  
+    {
+      "title"    : "2023-01-23-Obsidian块引用",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/28/Obsidian%E5%9D%97%E5%BC%95%E7%94%A8/",
+      "date"     : "2023-01-28 00:06:00 +0800",
+      "content"  : "建议的方法通过 [[title#heading]]，在文档中插入其他文档某一级标题下的内容，或通过 ![[title#heading]]进行嵌入。参考少数派文章 如何在 Obsidian 中实现「块引用」？ - 少数派"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Gitee图床配置",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Gitee%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-01-27 23:50:00 +0800",
+      "content"  : "参考"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-Obsidian折叠块生成",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8A%98%E5%8F%A0%E5%9D%97%E7%94%9F%E6%88%90/",
+      "date"     : "2023-01-27 23:25:00 +0800",
+      "content"  : "1 建议的方法1.1 用Obsidian固有的callouts功能1.1.1 代码gt;[!TIP]- 点击展开gt;展开了然后呢1.1.2 效果  [!TIP]- 点击展开展开了然后呢2 不建议的方法2.1 用Annomation插件Obsidian插件的功能"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-Obsidian自带的Callouts功能",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E8%87%AA%E5%B8%A6%E7%9A%84Callouts%E5%8A%9F%E8%83%BD/",
+      "date"     : "2023-01-27 23:19:00 +0800",
+      "content"  : "基础功能生成卡片代码gt; [!TIP] 标题gt;内容效果  [!TIP] 标题内容进阶功能折叠滑块![[2023-01-27-Obsidian折叠块生成#代码]]![[2023-01-27-Obsidian折叠块生成#效果]]参考知乎文章 Obsidian更新的Callouts，提升方便性和美观程度 - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-把bat文件添加到开始选项卡",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E6%8A%8Abat%E6%96%87%E4%BB%B6%E6%B7%BB%E5%8A%A0%E5%88%B0%E5%BC%80%E5%A7%8B%E9%80%89%E9%A1%B9%E5%8D%A1/",
+      "date"     : "2023-01-27 17:56:00 +0800",
+      "content"  : "0.1 目的Snipaste和PicGo总是需要同时打开，放在开始选项卡既占两个格子每次又很麻烦，所以想用占一个格子的bat文件代替。0.2 方法1.右击任意位置，选择创建快捷方式，输入cmd /k E:#92;Settings#92;bat#92;截图.bat名字填截图，点下一步，创建成功。  快捷方式，选择添加到开始选项卡，在开始选项卡里再右击置顶。接下来可以取消 Snipaste 和 PicGo 的开始选项卡了。0.3 参考CSDN文章 win10系统如何把bat批处理文件固定到开始菜单_leon1741的博客-CSDN博客"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Github图床配置",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Github%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-01-27 15:51:00 +0800",
+      "content"  : "注意：自定义域名空着，如果改了反而看不见图片，可能是因为原来的分支是master，现在改成main了原来的却没跟着改。参考如何利用 Github 搭建自己的免费图床？ - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-在Markdown里插入图片的注意事项",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E5%9C%A8Markdown%E9%87%8C%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/",
+      "date"     : "2023-01-27 15:49:00 +0800",
+      "content"  : "插入Markdown格式的图床链接，不要因为之后要渲染成html就插入url格式的链接，反而渲染不出来。"
+    } ,
+  
+    {
+      "title"    : "2023-01-26-Obsidian插件Editing Toolbar用法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8F%92%E4%BB%B6Editing-Toolbar%E7%94%A8%E6%B3%95/",
+      "date"     : "2023-01-27 14:36:00 +0800",
+      "content"  : "  [!TIP]- Editing Toolbar  功能  在顶部添加一条功能栏  用法  配置  使用  直接点一级按钮或者二级按钮即可  下载来源  Github Site Unreachable ^sxr59u"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-Obsidian插件Advanced Tables的用法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8F%92%E4%BB%B6Advanced-Tables%E7%9A%84%E7%94%A8%E6%B3%95/",
+      "date"     : "2023-01-27 14:14:00 +0800",
+      "content"  : "# 功能-用Tab键插入最基本的表格# 用法## 配置（不需要）## 使用    1.  输入 `|` ;    2.  输入列标题，然后按 `Tab`键；    3.  重复第二步，直到所有标题输入完毕，然后按`回车`键；    4.  此时光标来到表格的第一行；    5.  输入列的内容，然后按`Tab`键；    6.  重复第五步，直到所有列的内容输入完毕，如果需要增加新行，按`回车`键## 注意事项输入后需要一点时间渲染，不会立刻在预览模式里看到表格，等渲染成功再发布就能在网页看到表格了。# 下载来源暂时还用不到"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-只用华为手机安装Obsidian插件的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E5%8F%AA%E7%94%A8%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%AE%89%E8%A3%85Obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 13:06:00 +0800",
+      "content"  : "前期准备在手机的【文件管理】app里搜索库文件夹的名字，比如我的是“blog笔记”。在库文件夹里找到.obsidian文件夹进入该文件夹，新建文件夹“plugin”准备插件手机端可以访问obsidian的插件库一键下载该插件的zip在【文件管理】首页看到最新下载的zip，点击解压到随意一个文件夹搜索该文件夹的名字，长按选择，点移动，然后选择刚才的plugin文件夹。检查安装重启一下Obsidian手机端，点左上角标志-齿轮-选项里的第三方插件-关闭安全模式，看已安装的插件有没有新下载的那个。有即可。"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-用html预览md的安卓app",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E7%94%A8html%E9%A2%84%E8%A7%88md%E7%9A%84%E5%AE%89%E5%8D%93app/",
+      "date"     : "2023-01-27 13:06:00 +0800",
+      "content"  : "建议的方法Obsidian手机版[[Obsidan安卓版安装]]来源知乎问题：Android 上有什么好用的 markdown 编辑器？**排雷sublime text安卓版输入中文很不方便，会自动清空选字栏Vscode安卓版下载后打开不出页面Editplus安卓版不适配手机端MD笔记直接闪退MarkdownX不适配手机端，连井号按钮都没有，也没找到html预览功能坚果云Markdown也不能html预览纯纯写作也找不到井号，也没有html预览aide web不是NotesHub一点下载安卓版就连不上"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-网页嵌入哔哩哔哩视频的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E7%BD%91%E9%A1%B5%E5%B5%8C%E5%85%A5%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 13:06:00 +0800",
+      "content"  : "来源CSDN帖子网页中嵌入b站视频"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-华为手机屏蔽网页",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%B1%8F%E8%94%BD%E7%BD%91%E9%A1%B5/",
+      "date"     : "2023-01-27 13:06:00 +0800",
+      "content"  : "无效的方法不做手机控app不行"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-连接Wifi的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E8%BF%9E%E6%8E%A5Wifi%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 11:59:00 +0800",
+      "content"  : "建议的方法1. 一部已经连上wiki的手机2. 扫码可以看到密码（最后几位，不含分号）3. 记住，输入。（因为输入框不许粘贴）"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-Obsidian插件的功能",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E5%8A%9F%E8%83%BD/",
+      "date"     : "2023-01-27 11:54:00 +0800",
+      "content"  : "需要输入代码的不需要代码但建议配置的![[2023-01-26-Obsidian插件Editing Toolbar用法#^sxr59u]]可以不用的插件众所周知，插件过多每次打开Obsidian都要加载好久，在手机端更是又慢又耗内存。Admonitions理由虽然上手有难度但效果好，可是不能切到网页上，同样用这个建立的代码块也不能切到网页上。表格增强系列Advanced TablesTable Extended理由1. 表格系列插件多2. 操作仍然不够方便，比如有的单元格需要空着的时候tab次数不稳定3. 需要渲染表格的时间（哪怕只有十几秒）4. 每次插表格的时候右边的目录栏目就自动被表格栏目取代了，之后我不会调回来。5. 手机端还是几乎加不了表格6. 最重要的是即使加上Table Extended也只能横向合并单元格，不支持纵向合并所以还不如每次插html。Day Planner虽然能做出我非常喜欢的自动化时间轴，但是作为建站辅助软件，没有必要用这个记日程，配置难，插件自带一个文件夹juggl同上Kanban同上            一级按钮      二级按钮                  撤销                     重做                     发光胶囊按钮      代码                     代码块                     链接                     引用                     引用块                     引用页              列表按钮      插入无序列表                     插入有序列表              列表缩进                     取消列表缩进                     加粗                     高亮                     字体按钮      下划线                     删除线                     斜体                     清除格式                     添加上标                     添加下标              对齐方式按钮      两端对齐                     左对齐                     居中对齐                     右对齐              颜色按钮      改变文字颜色                     改变背景颜色              工作区拉长             其他想要完成的功能  每次插入列表的时候自动缩进列表，这样可以去掉头顶的两个按钮，也更省时间。"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-解决cmd运行不了@echo的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E8%A7%A3%E5%86%B3cmd%E8%BF%90%E8%A1%8C%E4%B8%8D%E4%BA%86@echo%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 11:50:00 +0800",
+      "content"  : "问题是编码格式引起的，要运行echo编码格式必须是ANSI方法  新建文本文档，粘贴源码。  文件-另存为，编码格式选择ANSI，文件名为“重命名.bat”  点击bat文件运行 ^61v3qo参考：1.【已解决】为什么批处理文件运行后再点“编辑”，里面的中文显示乱码？ - BAT求助amp;讨论 - 批处理之家 批处理_BAT脚本_PowerShell_VBS_CMD_DOS_Perl_Python - Powered by Discuz! (bathome.net)"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-批量修改文件后缀名的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8E%E7%BC%80%E5%90%8D%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 11:45:00 +0800",
+      "content"  : "暂无"
+    } ,
+  
+    {
+      "title"    : "2023-01-27-批量修改文件名",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8D/",
+      "date"     : "2023-01-27 11:24:00 +0800",
+      "content"  : "![[2023-01-27-解决cmd运行不了echo的方法#^2ouowh]]set /p str1= 请输入替换前的文件(夹)名中的字符串（空格亦适用）：set /p str2= 请输入替换后文件(夹)名中的字符串（删除请直接回车）：for /f delims= a in ('dir /s /b ^|sort /+65535') do (if ~nxa neq ~nx0 (set file=aset name=~naset extension=~xacall set name=name:str1=str2setlocal enabledelayedexpansionren !file! !name!!extension! 2gt;nulendlocal))exit参考：1.百度知道问题 批量删除多个文件名中多余的字符_百度知道 (baidu.com)答主hhqhhk的回答"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-PicGo+Snipaste",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/PicGo+Snipaste/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "1 准备bat文件（1） 在bat文件夹新建【截图】文件夹（2） 在文件夹里创建PicGo和Snipaste的快捷方式（3） 新建bat文件（4）输入内容#运行PicGostart D:#92;ProgramFiles#92;Safe#92;Usual#92;Snipaste#92;Snipaste.exe#运行Snipaste start E:#92;Gits#92;PicGo#92;PicGo.exe2 把bat文件添加到开始选项卡[[2023-01-27-把bat文件添加到开始选项卡#方法]]"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-删除nul文件的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/%E5%88%A0%E9%99%A4nul%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "建议的方法下载unlock运行unlock从文件路径中选择nul文件，选项选删除**失败的方法  用rd命令  把文件拖到del.bat脚本"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-jekyll建站并部署到Github Pages",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/jekyll%E5%BB%BA%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "最终呈现的效果加载也很快，手机端适配之后会缺头像之类的。可以全文搜索，虽然没有搜索结果预览和高亮。但是电脑端页面不能搜索，手机端和本地端都可以。原则上可以不传源码，只传_site文件夹里的文件参考知乎文章Github Pages + jekyll 全面介绍极简搭建个人网站和博客 - 知乎"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-jekyll建站上传到Github保留全文搜索的方法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/jekyll%E5%BB%BA%E7%AB%99%E4%B8%8A%E4%BC%A0%E5%88%B0Github%E4%BF%9D%E7%95%99%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E7%9A%84%E6%96%B9%E6%B3%95/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "bug在电脑端的Github Pages上不行，但是手机端可以。（当然电脑可以直接本地全文）参考SitePoint文章，作者 David LyonsSite Unreachable"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Vuepress建站并部署到Github Pages",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Vuepress%E5%BB%BA%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "教程哔哩哔哩专栏【合集·搭建个人知识库-哔哩哔哩】最终呈现效果  主页的格子很漂亮，鼠标移过的时候有动效。  可以进行题目搜索，不能用全文搜索。  因为是全程copy模板的，所以还不会新建文章。  可能因为加了图片，网页加载很慢，手机端尤其慢，这是最终==弃用Vuepress==的原因参考Vuepress官方文档            [部署项目      vuepress-theme-hope](https://theme-hope.vuejs.press/zh/cookbook/tutorial/deploy.html)      "
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidian插入分割线",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8F%92%E5%85%A5%E5%88%86%E5%89%B2%E7%BA%BF/",
+      "date"     : "2023-01-27 10:38:00 +0800",
+      "content"  : "在空行点击B（加粗），会出现四个星号，不输入内容就会变成分割线 ^0xkkxy"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidian安卓版汉化",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E5%AE%89%E5%8D%93%E7%89%88%E6%B1%89%E5%8C%96/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "步骤左上角-齿轮-选项下的About-Language里选简体中文-点击Relaunch来源知乎文章Obsidian系列教程（一）：安装与设置"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidan安卓版安装",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidan%E5%AE%89%E5%8D%93%E7%89%88%E5%AE%89%E8%A3%85/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "安装包电脑端位置E:#92;Settings#92;Software#92;Obsidian.1.1.9.exe下载链接apk下载汉化![[2023-01-24-Obsidian安卓版汉化#步骤]]"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-hugo建站并部署到Github Pages",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/hugo%E5%BB%BA%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "最终呈现的效果  可以按标题搜索，不能全文搜索，网页端和手机端都可以，但是经常需要重点“搜”字，而且现在不会调搜索框位置等设置。  最大的优点是加载页面超快，电脑和手机端都几乎零延迟。  另一个优点是可以只上传public文件夹，不用上传整个网站的源码。参考腾讯云文章Hugo搭建博客（一）— 基本设置 - 腾讯云开发者社区-腾讯云"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Guthub建站实录",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Guthub%E5%BB%BA%E7%AB%99%E5%AE%9E%E5%BD%95/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "一般的方法hugo建站[[2023-01-24-hugo建站并部署到Github Pages]]**放弃的方法Vuepress建站[[Vuepress建站并部署到Github Pages]]"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-mp5安装应用",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/mp5%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "建议的配置安装Feem在mp5的浏览器里搜索Feem手机版，安装。（下载完成后下滑左上角，可以看到apk，点击安装）在华为手机里安装Feem，两边的app连接同一个wifi。安装飞鸟传输文件里选择【应用】，选择【飞鸟】（一个免费找音频的app）。接收完成后，在mp5的文件管理里搜索base.apk，点击安装。安装完成后打开【飞鸟】app，点击登录，账号和旧的一样就行，不用密码。安装迅雷传输文件里选择【应用】，选择【迅雷】（用迅雷网盘看视频）。接收完成后，在mp5的文件管理里搜索base.apk，点击安装。安装完成后打开【迅雷】app，点击登录。**不建议的配置  不建议下载喜马拉雅，必要的话可以下载小宇宙app。  不要下载QQ，微信注册小号的时候可以下载一个微信app。  不要下载腾讯视频之类的视频播放app，包括哔哩哔哩。"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidian插件Annomation的用法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%8F%92%E4%BB%B6Annomation%E7%9A%84%E7%94%A8%E6%B3%95/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "功能  可以设置折叠的卡片框  可以多行块一起引用（但是不能切开）    用法    基础用法    配置    在插件的设置里面打开默认折叠，默认折叠类型为closed是默认折叠，open是默认展开，和添加复制按钮，点添加，第一行我填了note，第二行填了use，别的默认就行，可以自选图标和颜色。    使用    在围栏之间第一行输入ad-use，从下一行起输入要显示的内容。    参考    哔哩哔哩视频 Obsidian 完全指南 - 插件Admonition_哔哩哔哩_bilibili    进阶用法    行内引用    如果没有设置默认折叠    在引用的时候第二行输入collapse: close（中间有空格）可以在引用的时候默认折叠，反之输入collapse: open（中间有空格）可以默认开启。    如果设置了默认折叠    在引用的时候第二行输入==collapse: none==，就可以展开当前的代码框。  嵌套1. 假设一共嵌套两层，但第二层里面还有一个代码框，要按三层算，从外到内依次是A、B、C。2. C层代码块直接前后各加3个反引号即可。3. B层前面加4个反引号，反引号之后紧跟着`ad-html`。4. A层的前后各5个反引号，反引号之后紧跟着`ad-use`。实例因为该语法不支持html形式，所以看一下效果图即可预览时：点击展开后：源代码：`````ad-html# 进阶## 纵向合并单元格### 代码````ad-codecollapse: none```lt;tablegt;    lt;trgt;    lt;thgt;班级lt;/thgt;lt;thgt;课程lt;/thgt;    lt;/trgt;    lt;trgt;    lt;td rowspan=3gt;1班lt;/tdgt;lt;tdgt;语文lt;/tdgt;    lt;/trgt;    lt;trgt;    lt;tdgt;数学lt;/tdgt;    lt;/trgt;    lt;trgt;    lt;tdgt;英语lt;/tdgt;     lt;/trgt;lt;/tablegt;```````### 效果lt;tablegt;    lt;trgt;        lt;thgt;班级lt;/thgt;lt;thgt;课程lt;/thgt;    lt;/trgt;    lt;trgt;        lt;td rowspan=3gt;1班lt;/tdgt;lt;tdgt;语文lt;/tdgt;    lt;/trgt;    lt;trgt;        lt;tdgt;数学lt;/tdgt;    lt;/trgt;    lt;trgt;        lt;tdgt;英语lt;/tdgt;    lt;/trgt;lt;/tablegt;`````参考知乎文章 Obsidian 插件之 Admonition - 知乎下载来源Github Releases · valentine195/obsidian-admonition"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-Obsidian添加工具栏按钮",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/Obsidian%E6%B7%BB%E5%8A%A0%E5%B7%A5%E5%85%B7%E6%A0%8F%E6%8C%89%E9%92%AE/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "1. 点击右上角阅览2. 点击右下角的三条横线3. 点击“打开设置”4. 点“移动端工具栏”"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-md文件插入链接",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/md%E6%96%87%E4%BB%B6%E6%8F%92%E5%85%A5%E9%93%BE%E6%8E%A5/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "语法[要显示的文字](粘贴链接)来源【Markdown】md文件插入链接的方式"
+    } ,
+  
+    {
+      "title"    : "2023-01-24-markdown语法",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/27/markdown%E8%AF%AD%E6%B3%95/",
+      "date"     : "2023-01-27 10:37:00 +0800",
+      "content"  : "对应按钮优先级  代码的语法优先于高亮，所以要高亮一个代码片段，形式是==内容==，显示的效果为==内容==  代码的语法优先于链接，两个反引号之间插入链接可以照常显示链接，显示的效果为https://baidu.com"
+    } ,
+  
+    {
+      "title"    : "Tracked_files",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/01/23/tracked_files/",
+      "date"     : "2023-01-23 00:00:00 +0800",
+      "content"  : "queue:[],repeatQueue:[],items:[null],trackedFiles:[null],lastQueue:1674924960534,newAdded:0"
+    } 
+  
+]
