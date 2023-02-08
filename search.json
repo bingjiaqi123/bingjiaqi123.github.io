@@ -1,13 +1,33 @@
 [
   
     {
-      "title"    : "2023-02-08-",
-      "category" : "Obsidian",
+      "title"    : "2023-02-08-搜狗输入法自定义短语",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "搜狗输入法, 自定义短语",
+      "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9F%AD%E8%AF%AD/",
+      "date"     : "2023-02-08 18:11:00 +0800",
+      "content"  : "1 配置方式右键lt;/agt;-常用设置-按键 P更多设置lt;/agt;-属性设置-高级lt;/agt;-候选拓展--自定义短语-自定义标点lt;/agt;2 功能有一篇参考文章，如果找到会贴进来"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-Quicker文本指令配置",
+      "category" : "输入法",
       "description" : "",
       "tags"     : "",
-      "url"      : "/2023/02/08/Obsidian%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/",
-      "date"     : "2023-02-08 08:13:00 +0800",
-      "content"  : "逗号不加空格空格不加逗号name 按钮type commandaction 按钮: 创建新按钮"
+      "url"      : "/2023/02/08/Quicker%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-02-08 17:07:00 +0800",
+      "content"  : "1 Quicker 配置Quicker 官方文档里说免费版只能用 6 个月文本指令但是配置的时候没有提，只说免费版可以加 10 条规则。1.1 解决方式配置完看一下能不能转成轮盘等限制较少的功能。如果六个月后确实禁用了，先弄一个推荐码，然后 50 块钱买 15 个月的会员。2 Obsidian 配置Obsidian 里的 EasyTyping 插件默认自动开启“连续输入全角转半角”，会影响上屏，关闭该转换即可。"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-搜狗输入法自定义标点",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "搜狗输入法, 自定义标点",
+      "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%87%E7%82%B9/",
+      "date"     : "2023-02-08 16:42:00 +0800",
+      "content"  : "1 配置方式右键lt;/agt;-常用设置-按键P更多设置lt;/agt;-属性设置-常用lt;/agt;-标点符号-自定义标点lt;/agt;2 功能有一篇参考文章，如果找到会贴进来"
     } ,
   
     {
@@ -16,13 +36,63 @@
       "description" : "",
       "tags"     : "",
       "url"      : "/2023/02/08/logseq%E8%B7%AF%E5%BE%84/",
-      "date"     : "2023-02-08 08:11:00 +0800",
-      "content"  : "D:#92;Users#92;75722#92;logseqname 按钮type commandaction 按钮: 创建新按钮"
+      "date"     : "2023-02-08 11:44:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-08-长链接转“更多”",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E9%95%BF%E9%93%BE%E6%8E%A5%E8%BD%AC-%E6%9B%B4%E5%A4%9A/",
+      "date"     : "2023-02-08 11:40:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-08-改变Github仓库分支主页显示的内容。",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E6%94%B9%E5%8F%98Github%E4%BB%93%E5%BA%93%E5%88%86%E6%94%AF%E4%B8%BB%E9%A1%B5%E6%98%BE%E7%A4%BA%E7%9A%84%E5%86%85%E5%AE%B9/",
+      "date"     : "2023-02-08 08:50:00 +0800",
+      "content"  : "巧用快捷键"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-Jekyll改变搜索框占位字符",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/Jekyll%E6%94%B9%E5%8F%98%E6%90%9C%E7%B4%A2%E6%A1%86%E5%8D%A0%E4%BD%8D%E5%AD%97%E7%AC%A6/",
+      "date"     : "2023-02-08 08:47:00 +0800",
+      "content"  : "jekyll_site_includes#92;banner. html改变 Github 仓库分支主页显示的内容。Logseq 路径快捷键长链接转更多 j"
+    } ,
+  
+    {
+      "title"    : "电脑输入法选择",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E7%94%B5%E8%84%91%E8%BE%93%E5%85%A5%E6%B3%95%E9%80%89%E6%8B%A9/",
+      "date"     : "2023-02-08 00:00:00 +0800",
+      "content"  : "///layout: posttitle: 2023/02/08/电脑输入法选择subtitle :author: jiaqidate: 2023/02/08 16:29updated: 2023/02/08 16:32categories: 输入法tags: ///1 主力输入法搜狗拼音输入法——小鹤双拼模式1.1 原因1. 支持一键唤出手写模式3. 词库丰富更新快，记忆常用词快4. 支持标点配对和自定义标点5. 支持自动网址补全和自定义短语，可以把常用符号放进2、3候选里6. 可以自由调节翻页和二、三候选的控制键1.2 相关搜狗输入法自定义标点"
+    } ,
+  
+    {
+      "title"    : "Jekyll增加顶部页面",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/Jekyll%E5%A2%9E%E5%8A%A0%E9%A1%B6%E9%83%A8%E9%A1%B5%E9%9D%A2/",
+      "date"     : "2023-02-08 00:00:00 +0800",
+      "content"  : "layout: posttitle: 2023-02-08-subtitle :author: jiaqidate: 2023-02-08 08:44updated: 2023-02-08 08:44categories: tags: —Jekyll 增加顶部页面jekyll_site_includes#92;header. htmllogseq 路径"
     } ,
   
     {
       "title"    : "2023-02-07-解决“在输入语言之间切换”的抑音符占用",
-      "category" : "",
+      "category" : "输入法",
       "description" : "",
       "tags"     : "Powertoys, Quicker, 抑音符",
       "url"      : "/2023/02/07/%E8%A7%A3%E5%86%B3-%E5%9C%A8%E8%BE%93%E5%85%A5%E8%AF%AD%E8%A8%80%E4%B9%8B%E9%97%B4%E5%88%87%E6%8D%A2-%E7%9A%84%E6%8A%91%E9%9F%B3%E7%AC%A6%E5%8D%A0%E7%94%A8/",
@@ -47,17 +117,17 @@
       "tags"     : "",
       "url"      : "/2023/02/07/%E5%B0%8F%E9%B9%A4%E9%9F%B3%E5%BD%A2%E8%BE%93%E5%85%A5%E6%B3%95%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/",
       "date"     : "2023-02-07 14:48:00 +0800",
-      "content"  : "键盘配置name 按钮type commandaction 按钮: 创建新按钮"
+      "content"  : ""
     } ,
   
     {
       "title"    : "2023-02-07-电脑键盘输入法配置",
-      "category" : "",
+      "category" : "输入法",
       "description" : "",
       "tags"     : "",
       "url"      : "/2023/02/07/%E7%94%B5%E8%84%91%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5%E6%B3%95%E9%85%8D%E7%BD%AE/",
       "date"     : "2023-02-07 14:47:00 +0800",
-      "content"  : "小鹤音形输入法安装与配置name 按钮type commandaction 按钮: 创建新按钮"
+      "content"  : "1 输入法选择"
     } ,
   
     {
@@ -67,7 +137,7 @@
       "tags"     : "",
       "url"      : "/2023/02/06/Obsidian%E8%A1%A8%E6%A0%BC%E6%9C%80%E4%BC%98%E8%B7%AF%E5%BE%84/",
       "date"     : "2023-02-06 20:39:00 +0800",
-      "content"  : "name 抑音符type commandaction 按钮: 创建新按钮"
+      "content"  : ""
     } ,
   
     {
@@ -87,17 +157,7 @@
       "tags"     : "",
       "url"      : "/2023/02/06/Obsidian%E7%A9%BA%E9%97%B4%E4%BC%98%E5%8C%96/",
       "date"     : "2023-02-06 08:01:00 +0800",
-      "content"  : "2023-01-27-Obsidian折叠块生成name 按钮type commandaction 按钮: 创建新按钮VBS转EXED:#92;Users#92;75722#92;logseq在线示意图网站"
-    } ,
-  
-    {
-      "title"    : "快捷键",
-      "category" : "",
-      "description" : "",
-      "tags"     : "空格, 第三",
-      "url"      : "/2023/02/06/%E5%BF%AB%E6%8D%B7%E9%94%AE/",
-      "date"     : "2023-02-06 00:04:00 +0800",
-      "content"  : "Ctrl↑折叠标题Obsidian表格最优路径那个长链接转“更多"
+      "content"  : "2023-01-27-Obsidian折叠块生成VBS转EXED:#92;Users#92;75722#92;logseq在线示意图网站"
     } ,
   
     {
@@ -117,7 +177,7 @@
       "tags"     : "",
       "url"      : "/2023/02/05/%E6%89%8B%E6%9C%BA%E7%AB%AF%E6%8F%92%E4%BB%B6/",
       "date"     : "2023-02-05 23:49:00 +0800",
-      "content"  : "1 必用插件2023-01-24-在线示意图网站1.1 Easytype  1          2      3      4      5      至少可以自动在英语和中文之间加空格。2023-02-03-VBS转EXE1.2 Template一键下拉加页眉很舒服。1.3 汉化不用提了1.4 Danamyc toc手机端的小屏幕用来跳转太方便了，还可以配合 template 一起。1.5 Number Heading只要打开自动编号就没白弄1.6 Auto link title自动粘贴链接名字1.7 Quick Add至少可以真正给文章取名字2 必删插件2.1 Ozan’s Image手机端并不能做到2.2 Enhance editing手机又不能用快捷键2.3 Upload image手机剪贴板根本不支持粘贴图片2.4 Buttons也是一个离了快捷键活不了的2.5 Discordian开启关闭没有差别"
+      "content"  : "1 必用插件2023-01-24-在线示意图网站1.1 Easytype至少可以自动在英语和中文之间加空格。1.2 Template一键下拉加页眉很舒服。1.3 汉化不用提了1.4 Danamyc toc手机端的小屏幕用来跳转太方便了，还可以配合 template 一起。1.5 Number Heading只要打开自动编号就没白弄1.6 Auto link title自动粘贴链接名字1.7 Quick Add至少可以真正给文章取名字2 必删插件2.1 Ozan’s Image手机端并不能做到2.2 Enhance editing手机又不能用快捷键2.3 Upload image手机剪贴板根本不支持粘贴图片2.4 Buttons也是一个离了快捷键活不了的2.5 Discordian开启关闭没有差别"
     } ,
   
     {
@@ -127,7 +187,7 @@
       "tags"     : "",
       "url"      : "/2023/02/05/%E5%A2%9E%E5%BC%BA%E7%BC%96%E8%BE%91%E6%8F%92%E4%BB%B6/",
       "date"     : "2023-02-05 09:47:00 +0800",
-      "content"  : "不能调整快捷键和内容name 抑音符type commandaction 按钮: 创建新按钮"
+      "content"  : "不能调整快捷键和内容点击这里Jekyll 增加顶部页面"
     } ,
   
     {
