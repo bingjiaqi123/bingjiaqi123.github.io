@@ -1,10 +1,190 @@
 [
   
     {
-      "title"    : "2023-02-08-网页的代码块复制功能",
-      "category" : "Jekyll",
+      "title"    : "2023-02-09-and&amp;底色",
+      "category" : "键盘配置",
       "description" : "",
       "tags"     : "",
+      "url"      : "/2023/02/09/and&%E5%BA%95%E8%89%B2/",
+      "date"     : "2023-02-09 00:34:00 +0800",
+      "content"  : "1 原位置F52 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键Famp; 到 Shift(Left) + 73 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可改变选中的文字的底色在 lt;font color=#2dc26bgt;Obsidianlt;/fontgt;里增强编辑：转换彩色背景 1设置快捷键 Ctrl + Shift(Left) + 74 可能性Alt + Shift + 7 未配置"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-反斜杠&amp;音量加…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/%E5%8F%8D%E6%96%9C%E6%9D%A0&%E9%9F%B3%E9%87%8F%E5%8A%A0/",
+      "date"     : "2023-02-09 00:29:00 +0800",
+      "content"  : "1 原位置F42 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F4 到 #92;2.1 中英文中文模式下输入 、英文模式下输入 #92;3 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可音量增加4 可能性Alt + Shift + #92; 未配置"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-Esc",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/Esc/",
+      "date"     : "2023-02-09 00:16:00 +0800",
+      "content"  : "1 原位置Esc2 配置方式Esc 和 Fn 组合可以开启/关闭 F1-12 的功能键，现在默认是开启状态"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-右括号&amp;音量减…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E5%8F%B3%E6%8B%AC%E5%8F%B7&%E9%9F%B3%E9%87%8F%E5%87%8F/",
+      "date"     : "2023-02-08 23:10:00 +0800",
+      "content"  : "1 原位置F32 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F3 到 Shift(Left) + 03 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可增加音量4 可能性Alt + Shift + 0 未配置"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-左括号&amp;静音键…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E5%B7%A6%E6%8B%AC%E5%8F%B7&%E9%9D%99%E9%9F%B3%E9%94%AE/",
+      "date"     : "2023-02-08 23:03:00 +0800",
+      "content"  : "1 原位置F32 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F2 到 Shift(Left) + 93 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可静音/取消静音4 可能性Alt + Shift + 9 未配置"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-星号键…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E6%98%9F%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-08 22:50:00 +0800",
+      "content"  : "1 原位置F12 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F1 到 *3 可能性单键相当于空的，但是可以用组合的快捷键去配置组合的快捷键"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-插入空格",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "空格",
+      "url"      : "/2023/02/08/%E6%8F%92%E5%85%A5%E7%A9%BA%E6%A0%BC/",
+      "date"     : "2023-02-08 22:42:00 +0800",
+      "content"  : "1 方法Shift + Space 切换全半角按 Space1.1 参考html中多个空格怎么打"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-改变外部图片的长宽",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E6%94%B9%E5%8F%98%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E7%9A%84%E9%95%BF%E5%AE%BD/",
+      "date"     : "2023-02-08 22:29:00 +0800",
+      "content"  : "1 设置外部图片的长宽lt;img src=https://gitee.com/bing-jiaqi/blog/raw/master/E99D99E99FB3.svg height=100 width=100 /gt;2 设置内部图片的长宽lt;img src=/i/ct_1px.gif width=200px height=30px /gt;2.1 参考html图像的height和width属性)"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-配置插入按钮动作",
+      "category" : "Obsidian",
+      "description" : "",
+      "tags"     : "Quicker",
+      "url"      : "/2023/02/08/%E9%85%8D%E7%BD%AE%E6%8F%92%E5%85%A5%E6%8C%89%E9%92%AE%E5%8A%A8%E4%BD%9C/",
+      "date"     : "2023-02-08 21:42:00 +0800",
+      "content"  : "1 配置动作打开lt;font color=#2dc26bgt;Quickerlt;/fontgt;2 配置文件导出2.1 静态 button_20230208_184814. json  Row: 2,  Col: 0,  ActionType: 24,  Title: 静态 button,  Description: ,  Icon: fa: Light_Terminal,  Path: null,  DelayMs: 0,  Data: #92;LimitSingleInstance#92;: true,#92;SummaryExpression#92;:#92;#92;,#92;SubPrograms#92;:[],#92;Variables#92;:[#92;Key#92;:#92;text#92;,#92;Type#92;:0,#92;Desc#92;:#92;默认的文本变量#92;,#92;DefaultValue#92;:#92;#92;,#92;SaveState#92;:false,#92;IsInput#92;:false,#92;IsOutput#92;:false,#92;ParamName#92;:null,#92;InputParamInfo#92;:null,#92;OutputParamInfo#92;:null,#92;TableDef#92;:null,#92;CustomType#92;:null],#92;Steps#92;:[#92;StepRunnerKey#92;:#92;sys:keyInput#92;,#92;InputParams#92;:#92;keys#92;:#92;VarKey#92;:null,#92;Value#92;:#92;#92;#92;#92;CtrlKeys#92;#92;#92;:[163],#92;#92;#92;Keys#92;#92;#92;:[188]#92;,#92;repeat#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;interval#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;holdMs#92;:#92;VarKey#92;:null,#92;Value#92;:#92;-1#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:getSelectedText#92;,#92;InputParams#92;:#92;format#92;:#92;VarKey#92;:null,#92;Value#92;:#92;UnicodeText#92;,#92;waitMs#92;:#92;VarKey#92;:null,#92;Value#92;:#92;250#92;,#92;repeat#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;trim#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;useActionParam#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;isSuccess#92;:null,#92;output#92;:#92;text#92;,#92;outputEncoded#92;:null,#92;url#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:stringProcess#92;,#92;InputParams#92;:#92;data#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;insert#92;,#92;start#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;value#92;:#92;VarKey#92;:null,#92;Value#92;:#92;lt;buttongt;#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;output#92;:#92;text#92;,#92;isSuccess#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:stringProcess#92;,#92;InputParams#92;:#92;data#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;append#92;,#92;value#92;:#92;VarKey#92;:null,#92;Value#92;:#92;lt;/buttongt;#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;output#92;:#92;text#92;,#92;isSuccess#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:outputText#92;,#92;InputParams#92;:#92;content#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;paste#92;,#92;delayBeforePaste#92;:#92;VarKey#92;:null,#92;Value#92;:#92;50#92;,#92;delayAfterPaste#92;:#92;VarKey#92;:null,#92;Value#92;:#92;10#92;,#92;appendReturn#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0],  Data2: null,  Data3: null,  Children: null,  Id: ed26a703-c7ba-49c0-80be-bf92180be2aa,  TemplateId: null,  TemplateRevision: 0,  UseTemplate: false,  LastEditTimeUtc: 2023-02-08T10:41:10.7664683+08:00,  SharedActionId: null,  ShareTimeUtc: null,  CreateTimeUtc: null,  AsSubProgram: false,  SkipWhenStopRunningActions: false,  SkipCheckUpdate: false,  AutoUpdate: false,  KeepInfoWhenUpdate: false,  MinQuickerVersion: ,  ContextMenuData: ,  AllowScrollTrigger: false,  EnableEvaluateVariable: false,  IsTextProcessor: false,  IsImageProcessor: false,  Association:     MatchProcess: null,    IsImageProcessor: false,    ReturnImageFromFirstScreenShotStep: true,    IsTextProcessor: false,    ReturnTextFromGetSelectedTextStep: true,    TextMatchExpression: ,    TextMinLength: 0,    TextMaxLength: 0,    IsHtmlProcessor: false,    IsFileProcessor: false,    FileMinCount: 0,    FileMaxCount: 0,    AllowedFileExtensions: ,    RequireAllFileMatchExt: false,    SearchBoxPlaceholder: ,    IsWindowProcessor: false,    EnableRealtimeSearch: false,    BrowserContextMenu: null,    UrlPattern:   ,  DoNotClosePanel: false3 设置文本指令缩写词 ;;☑启用☑输入法开启时，使用退格方式消除缩写词-绑定进程-选择窗口Obsidian触发字符 →"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-键盘配置图",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
+      "date"     : "2023-02-08 21:31:00 +0800",
+      "content"  : "1 第一行Esc*(　）#92;　amp;　底色1.1Esc*(　）#92;　amp;　底色"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-用键盘替代鼠标右键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E7%94%A8%E9%94%AE%E7%9B%98%E6%9B%BF%E4%BB%A3%E9%BC%A0%E6%A0%87%E5%8F%B3%E9%94%AE/",
+      "date"     : "2023-02-08 21:22:00 +0800",
+      "content"  : "1 映射 F10 到键盘#92; 到 F102 运行F10+Shift=鼠标右键3 注意F10 单键唯一的作用是在 Word 里，所以可以在 Obsidian 里设置 设为小标题 1的快捷键为 F10"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-配置输入抑音符动作",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E9%85%8D%E7%BD%AE%E8%BE%93%E5%85%A5%E6%8A%91%E9%9F%B3%E7%AC%A6%E5%8A%A8%E4%BD%9C/",
+      "date"     : "2023-02-08 21:10:00 +0800",
+      "content"  : "1 打开 Powertoys-按键-重新映射键抑音符 到 F11.1 注意这里必须是一个单键，否则没有办法和其他键组合2 设置 Quicker 动作2.1 配置2.2 配置文件导出2.2.1 输入抑音符_20230208_210814. json  Row: 0,  Col: 3,  ActionType: 24,  Title: 输入抑音符,  Description: ,  Icon: fa:Light_Text,  Path: null,  DelayMs: 0,  Data: #92;LimitSingleInstance#92;:true,#92;SummaryExpression#92;:#92;#92;,#92;SubPrograms#92;:[],#92;Variables#92;:[#92;Key#92;:#92;text#92;,#92;Type#92;:0,#92;Desc#92;:#92;默认的文本变量#92;,#92;DefaultValue#92;:#92;#92;,#92;SaveState#92;:false,#92;IsInput#92;:false,#92;IsOutput#92;:false,#92;ParamName#92;:null,#92;InputParamInfo#92;:null,#92;OutputParamInfo#92;:null,#92;TableDef#92;:null,#92;CustomType#92;:null],#92;Steps#92;:[#92;StepRunnerKey#92;:#92;sys:outputText#92;,#92;InputParams#92;:#92;content#92;:#92;VarKey#92;:null,#92;Value#92;:#92;``#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;input#92;,#92;delayBetweenChar#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;appendReturn#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:keyInput#92;,#92;InputParams#92;:#92;keys#92;:#92;VarKey#92;:null,#92;Value#92;:#92;#92;#92;#92;CtrlKeys#92;#92;#92;:[],#92;#92;#92;Keys#92;#92;#92;:[37]#92;,#92;repeat#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;interval#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;holdMs#92;:#92;VarKey#92;:null,#92;Value#92;:#92;-1#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0],  Data2: null,  Data3: null,  Children: null,  Id: 544f5dc1-e1e5-440d-9d6e-9f9280378c94,  TemplateId: null,  TemplateRevision: 0,  UseTemplate: false,  LastEditTimeUtc: 2023-02-07T11:54:55.7804212+08:00,  SharedActionId: null,  ShareTimeUtc: null,  CreateTimeUtc: null,  AsSubProgram: false,  SkipWhenStopRunningActions: false,  SkipCheckUpdate: false,  AutoUpdate: false,  KeepInfoWhenUpdate: false,  MinQuickerVersion: ,  ContextMenuData: ,  AllowScrollTrigger: false,  EnableEvaluateVariable: false,  IsTextProcessor: false,  IsImageProcessor: false,  Association:     MatchProcess: null,    IsImageProcessor: false,    ReturnImageFromFirstScreenShotStep: true,    IsTextProcessor: false,    ReturnTextFromGetSelectedTextStep: true,    TextMatchExpression: ,    TextMinLength: 0,    TextMaxLength: 0,    IsHtmlProcessor: false,    IsFileProcessor: false,    FileMinCount: 0,    FileMaxCount: 0,    AllowedFileExtensions: ,    RequireAllFileMatchExt: false,    SearchBoxPlaceholder: ,    IsWindowProcessor: false,    EnableRealtimeSearch: false,    BrowserContextMenu: null,    UrlPattern: null  ,  DoNotClosePanel: false2.3 设置快捷键右键信息设置快捷键F1"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-一键反复切换中英文模式",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E4%B8%80%E9%94%AE%E5%8F%8D%E5%A4%8D%E5%88%87%E6%8D%A2%E4%B8%AD%E8%8B%B1%E6%96%87%E6%A8%A1%E5%BC%8F/",
+      "date"     : "2023-02-08 20:41:00 +0800",
+      "content"  : "1 配置设置时间和语言输入高级键盘设置输入语言热键在输入语言之间更改按键顺序…☑启用语言热键-切换输入语言-☑抑音符重音确定应用确定2 注意事项解决“在输入语言之间切换”的抑音符占用"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-小鹤音形输入法语言热键配置",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "小鹤音形",
+      "url"      : "/2023/02/08/%E5%B0%8F%E9%B9%A4%E9%9F%B3%E5%BD%A2%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E8%A8%80%E7%83%AD%E9%94%AE%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-02-08 20:07:00 +0800",
+      "content"  : "1 配置设置时间和语言输入高级键盘设置输入语言热键切换到中文（简体，中国）-小鹤音形更改按键顺序…☑启用语言热键左Alt + Shift + 9"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-搜狗输入法设置快捷键",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "搜狗输入法",
+      "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%AE%BE%E7%BD%AE%E5%BF%AB%E6%8D%B7%E9%94%AE/",
+      "date"     : "2023-02-08 19:33:00 +0800",
+      "content"  : "1 输入法内配置：右键，Shift + 双-常用设置-按键 P更多设置-属性设置-常用lt;/agt;-输入法管理-输入法管理器Shift + 52 语言热键配置理论上可以选择不启用该输入法的语言热键，不过我直接配置成一样的了。设置时间和语言输入高级键盘设置输入语言热键切换到中文（简体，中国）-搜狗拼音输入法更改按键顺序…☑启用语言热键Ctrl + Shift + 5"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-搜狗拼音输入法配置",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "搜狗输入法",
+      "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E6%8B%BC%E9%9F%B3%E8%BE%93%E5%85%A5%E6%B3%95%E9%85%8D%E7%BD%AE/",
+      "date"     : "2023-02-08 19:14:00 +0800",
+      "content"  : "1 相关搜狗输入法自定义标点搜狗输入法自定义短语2 输入法内主要配置2.1 双拼模式小鹤双拼模式2.2 开启的2.2.1 选词换页， 。手贴在键盘输入的时候最顺手可以即时打标点- =手抬得比较高的时候最顺手2.2.2 标点配对自动补全成对标点，可以用来释放键盘上的 ]  ） 等2.2.3 智能调整数字后标点有点鸡肋，但还是开着更好2.2.4 二、三候选; ''主要是二候选离得比较近，三候选离得稍微远一点，而且还没有形成习惯2.3 不需要开启的2.3.1 拼音纠正双拼的时候不需要拼音纠正2.3.2 模糊音双拼不需要2.3.3 中文时使用英文标点其实有的人会开着，可以避免很多格式错误，但是我强迫症不能接受就没开3 全局配置3.1 语言热键搜狗输入法设置快捷键3.1.1 原因搜狗拼音输入法有一个特点是内部也能设输入法快捷键，所以要保证两边的快捷键是一致的就必须在全局语言热键里选择 Ctrl + Shift 模式"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-网页中插入按钮",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "按钮",
+      "url"      : "/2023/02/08/%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%8F%92%E5%85%A5%E6%8C%89%E9%92%AE/",
+      "date"     : "2023-02-08 18:41:00 +0800",
+      "content"  : "1 基本格式lt;buttongt;按钮lt;/buttongt;1.1 错误的格式lt;buttongt;按钮lt;/buttongt;lt;/agt;1.2 原因虽然在 Obdidian 里显示的一样，但是在网页编译后多余的 lt;/agt; 会显示出来，同理在网页中插入表格也是如此。2 用文本指令插入按钮配置插入按钮动作3 进阶3.1 设置按钮的宽高lt;button style=height:高度值;width:宽度值;gt;按钮lt;/buttongt;3.1.1 参考html怎么设置按钮的大小3.2 插入跳转链接按钮lt;a href=https://www.baidu.com/gt;lt;buttongt;百度lt;/buttongt;3.2.1 参考HTML点击按钮button跳转页面的几种实现方法3.3 组合lt;a href=https://www.baidu.com/gt;lt;button style=height:200;width:100;gt;按钮lt;/buttongt;"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-文章Layout的格式选择",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E6%96%87%E7%AB%A0Layout%E7%9A%84%E6%A0%BC%E5%BC%8F%E9%80%89%E6%8B%A9/",
+      "date"     : "2023-02-08 18:40:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-08-网页的代码块复制功能",
+      "category" : "html",
+      "description" : "",
+      "tags"     : "复制",
       "url"      : "/2023/02/08/%E7%BD%91%E9%A1%B5%E7%9A%84%E4%BB%A3%E7%A0%81%E5%9D%97%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/",
       "date"     : "2023-02-08 18:34:00 +0800",
       "content"  : ""
@@ -14,15 +194,15 @@
       "title"    : "2023-02-08-搜狗输入法自定义短语",
       "category" : "输入法",
       "description" : "",
-      "tags"     : "搜狗输入法, 自定义短语",
+      "tags"     : "搜狗输入法",
       "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9F%AD%E8%AF%AD/",
       "date"     : "2023-02-08 18:11:00 +0800",
-      "content"  : "1 配置方式右键lt;/agt;-常用设置-按键 P更多设置lt;/agt;-属性设置-高级lt;/agt;-候选拓展--自定义短语-自定义标点lt;/agt;2 功能有一篇参考文章，如果找到会贴进来"
+      "content"  : "1 配置方式右键-常用设置-按键 P更多设置-属性设置-高级-候选拓展--自定义短语-自定义标点2 功能有一篇参考文章，如果找到会贴进来"
     } ,
   
     {
       "title"    : "2023-02-08-Quicker文本指令配置",
-      "category" : "输入法",
+      "category" : "Quicker",
       "description" : "",
       "tags"     : "",
       "url"      : "/2023/02/08/Quicker%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4%E9%85%8D%E7%BD%AE/",
@@ -34,10 +214,20 @@
       "title"    : "2023-02-08-搜狗输入法自定义标点",
       "category" : "输入法",
       "description" : "",
-      "tags"     : "搜狗输入法, 自定义标点",
+      "tags"     : "搜狗输入法",
       "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%87%E7%82%B9/",
       "date"     : "2023-02-08 16:42:00 +0800",
-      "content"  : "1 配置方式右键-常用设置-按键P更多设置-属性设置-常用lt;/agt;-标点符号-自定义标点lt;/agt;2 功能有一篇参考文章，如果找到会贴进来"
+      "content"  : "1 配置方式右键-常用设置-按键P更多设置-属性设置-常用-标点符号-自定义标点2 功能有一篇参考文章，如果找到会贴进来"
+    } ,
+  
+    {
+      "title"    : "2023-02-08-电脑输入法选择",
+      "category" : "输入法",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E7%94%B5%E8%84%91%E8%BE%93%E5%85%A5%E6%B3%95%E9%80%89%E6%8B%A9/",
+      "date"     : "2023-02-08 16:29:00 +0800",
+      "content"  : "1 主力输入法：搜狗拼音输入法1.1 原因1. 支持一键唤出手写模式3. 词库丰富更新快，记忆常用词快4. 支持标点配对和自定义标点5. 支持自动网址补全和自定义短语，可以把常用符号放进2、3候选里6. 可以自由调节翻页和二、三候选的控制键1.2 配置搜狗拼音输入法配置2 进阶输入法：小鹤音形输入法2.1 原因1. 在任何一个输入法里几乎都小鹤双拼模式2. 有音形模式，学会后可以不用选词3. 手机端也有同样的输入法，可能比九宫格全拼要准确快速一些2.2 配置小鹤音形输入法配置"
     } ,
   
     {
@@ -72,42 +262,32 @@
   
     {
       "title"    : "2023-02-08-Jekyll改变搜索框占位字符",
-      "category" : "",
+      "category" : "Jekyll",
       "description" : "",
       "tags"     : "",
       "url"      : "/2023/02/08/Jekyll%E6%94%B9%E5%8F%98%E6%90%9C%E7%B4%A2%E6%A1%86%E5%8D%A0%E4%BD%8D%E5%AD%97%E7%AC%A6/",
       "date"     : "2023-02-08 08:47:00 +0800",
-      "content"  : "jekyll_site_includes#92;banner. html改变 Github 仓库分支主页显示的内容。Logseq 路径快捷键长链接转更多 j"
+      "content"  : "jekyll_site#92;_includes#92;banner. html改变 Github 仓库分支主页显示的内容"
     } ,
   
     {
-      "title"    : "电脑输入法选择",
-      "category" : "",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/2023/02/08/%E7%94%B5%E8%84%91%E8%BE%93%E5%85%A5%E6%B3%95%E9%80%89%E6%8B%A9/",
-      "date"     : "2023-02-08 00:00:00 +0800",
-      "content"  : "///layout: posttitle: 2023/02/08/电脑输入法选择subtitle :author: jiaqidate: 2023/02/08 16:29updated: 2023/02/08 16:32categories: 输入法tags: ///1 主力输入法搜狗拼音输入法——小鹤双拼模式1.1 原因1. 支持一键唤出手写模式3. 词库丰富更新快，记忆常用词快4. 支持标点配对和自定义标点5. 支持自动网址补全和自定义短语，可以把常用符号放进2、3候选里6. 可以自由调节翻页和二、三候选的控制键1.2 相关搜狗输入法自定义标点"
-    } ,
-  
-    {
-      "title"    : "Jekyll增加顶部页面",
-      "category" : "",
+      "title"    : "2023-02-08-",
+      "category" : "Jekyll",
       "description" : "",
       "tags"     : "",
       "url"      : "/2023/02/08/Jekyll%E5%A2%9E%E5%8A%A0%E9%A1%B6%E9%83%A8%E9%A1%B5%E9%9D%A2/",
-      "date"     : "2023-02-08 00:00:00 +0800",
-      "content"  : "layout: posttitle: 2023-02-08-subtitle :author: jiaqidate: 2023-02-08 08:44updated: 2023-02-08 08:44categories: tags: —Jekyll 增加顶部页面jekyll_site_includes#92;header. htmllogseq 路径"
+      "date"     : "2023-02-08 08:44:00 +0800",
+      "content"  : "jekyll_site#92;_includes#92;header. html"
     } ,
   
     {
       "title"    : "2023-02-07-解决“在输入语言之间切换”的抑音符占用",
       "category" : "输入法",
       "description" : "",
-      "tags"     : "Powertoys, Quicker, 抑音符",
+      "tags"     : "Powertoys, Quicker",
       "url"      : "/2023/02/07/%E8%A7%A3%E5%86%B3-%E5%9C%A8%E8%BE%93%E5%85%A5%E8%AF%AD%E8%A8%80%E4%B9%8B%E9%97%B4%E5%88%87%E6%8D%A2-%E7%9A%84%E6%8A%91%E9%9F%B3%E7%AC%A6%E5%8D%A0%E7%94%A8/",
       "date"     : "2023-02-07 15:04:00 +0800",
-      "content"  : "1 需要的软件1.1 Powertoys1.2 Quicker2 配置“输入语言热键”设置-时间和语言-输入-高级键盘设置-输入语言热键    打开了窗口    高级键设置-在输入语言之间-更改按键顺序-切换输入语言        弹窗        选择“抑音符重音”-确定-应用-确定3 确定现在的抑音符位置我选择的是右上角截屏键的位置，贴上了“切”字键盘贴，表示语言切换。打开Powertoys按键Print Screen 到 Shift(Left)+抑音符现在可以在任何一个窗口反复按该键来切换中英文。4 分配抑音符位置我选择的是左上角原来的抑音符位置。4.1 打开 Powertoys按键` 到 F1//这里必须是一个单键，否则没有办法和其他键组合4.2 打开Quicker在闲置窗口新建组合动作，名为抑音符输入发送文本到窗口``模拟按键Right保存右击-信息-设置快捷键- F15 运行方式在任意窗口按抑音符原来的位置即可。"
+      "content"  : "1 需要的软件1.1 Powertoys1.2 Quicker2 配置“输入语言热键”一键反复切换中英文模式3 确定现在的抑音符位置我选择的是右上角 Print Screen 键的位置，贴上了 ` 切 ` 字键盘贴，表示语言切换。打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键Print Screen 到 Shift (Left) + 抑音符现在可以在任何一个窗口反复按该键来切换中英文。4 分配抑音符位置我选择的是左上角原来的 抑音符 位置。配置输入抑音符动作5 运行方式在任意窗口按抑音符原来的位置即可。"
     } ,
   
     {
@@ -122,12 +302,12 @@
   
     {
       "title"    : "2023-02-07-小鹤音形输入法安装与配置",
-      "category" : "",
+      "category" : "输入法",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "小鹤音形",
       "url"      : "/2023/02/07/%E5%B0%8F%E9%B9%A4%E9%9F%B3%E5%BD%A2%E8%BE%93%E5%85%A5%E6%B3%95%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/",
       "date"     : "2023-02-07 14:48:00 +0800",
-      "content"  : ""
+      "content"  : "1 下载安装小鹤双拼 amp; 小鹤音形 (ysepan.com)2 配置小鹤音形输入法语言热键配置"
     } ,
   
     {
@@ -137,7 +317,7 @@
       "tags"     : "",
       "url"      : "/2023/02/07/%E7%94%B5%E8%84%91%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5%E6%B3%95%E9%85%8D%E7%BD%AE/",
       "date"     : "2023-02-07 14:47:00 +0800",
-      "content"  : "1 输入法选择"
+      "content"  : "1 输入法选择电脑输入法选择2 输入法切换2.1 一键切换到搜狗拼音输入法搜狗输入法设置快捷键现在键盘上原来的 0 号键位置贴上了 拼 字，对应快捷键 Ctrl + Shift + 52.2 一键切换到小鹤音形小鹤音形输入法语言热键配置现在键盘上原来的 9 号键位置贴上了 鹤 字，对应快捷键 左Alt + Shift + 92.3 一键反复切换中英文模式一键反复切换中英文模式"
     } ,
   
     {
