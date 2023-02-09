@@ -1,13 +1,93 @@
 [
   
     {
-      "title"    : "2023-02-09-抑音符&amp;字色…",
+      "title"    : "2023-02-09-切",
       "category" : "键盘配置",
       "description" : "",
       "tags"     : "",
+      "url"      : "/2023/02/09/%E5%88%87/",
+      "date"     : "2023-02-09 20:39:00 +0800",
+      "content"  : "1 原位置Print Screen2 配置方式一键反复切换中英文模式"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-Delete",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/Delete/",
+      "date"     : "2023-02-09 20:39:00 +0800",
+      "content"  : "1 原位置Delete2 配置方式未映射3 +Shift设置 删除当前段落 的快捷键为 Shift + Delete4 可能性Ctrl + DeleteCtrl + Shift + DeleteAlt + Shift + Delete"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-Insert",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/Insert/",
+      "date"     : "2023-02-09 19:45:00 +0800",
+      "content"  : "1 原位置Insert2 配置方式没有映射，Obsidian 也不支持 单键，但是如果映射它好像会影响 Quicker 的运行3 +ShiftShift + Insert 是默认粘贴4 +CtrlRegex Pipeline:Apply Ruleset 快捷键设置为 Ctrl + Insert5 可能性Ctrl + Shift + Insert 因为离得太远，所以用 Ctrl(Left) + Esc 映射了，现在是 截图并自动复制 的快捷键"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-间隔符&amp;View",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/%E9%97%B4%E9%9A%94%E7%AC%A6&View/",
+      "date"     : "2023-02-09 18:50:00 +0800",
+      "content"  : "1 原位置F122 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F12 到 Shift(Right) + 63 +Ctrl切换编辑/预览视图 快捷键设置为 Ctrl + Shift + 64 可能性Alt + Shift + 6 未配置"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-10号键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/0%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-09 18:41:00 +0800",
+      "content"  : "1 原位置F112 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F11 到 Numpad 03 可能性"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-9号键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/9%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-09 18:31:00 +0800",
+      "content"  : "1 原位置F102 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F10 到 Numpad 93 可能性"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-8号键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/8%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-09 18:30:00 +0800",
+      "content"  : "1 原位置F92 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F9 到 Numpad 83 可能性"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-7号键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
+      "url"      : "/2023/02/09/7%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-09 18:29:00 +0800",
+      "content"  : "1 原位置F82 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F8 到 Numpad 73 +Alt显示标签 快捷键设置为 Shift + Numpad 64 可能性"
+    } ,
+  
+    {
+      "title"    : "2023-02-09-抑音符&amp;字色",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "……",
       "url"      : "/2023/02/09/%E6%8A%91%E9%9F%B3%E7%AC%A6&%E5%AD%97%E8%89%B2/",
       "date"     : "2023-02-09 11:26:00 +0800",
-      "content"  : ""
+      "content"  : "1 +Ctrl打开设置 快捷键设置为 Ctrl + F61.1 原因设置 按钮本来就在左下角，所以用左下角的 Ctrl 配左上角的 抑音符 还可以记住2 +Alt未配置"
     } ,
   
     {
@@ -24,27 +104,27 @@
       "title"    : "2023-02-09-6号键",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/09/6%E5%8F%B7%E9%94%AE/",
       "date"     : "2023-02-09 09:40:00 +0800",
-      "content"  : ""
+      "content"  : "1 原位置F72 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F7 到 Numpad 63 +Alt关闭当前标签页  设置为 Alt + Numpad 73.1 原因Numpad 6 刚好在 Alt 键的正上方，和当前标签页在屏幕的位置很像"
     } ,
   
     {
-      "title"    : "2023-02-09-竖线…",
+      "title"    : "2023-02-09-竖线",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/09/%E7%AB%96%E7%BA%BF/",
       "date"     : "2023-02-09 09:39:00 +0800",
-      "content"  : "1 原位置F12 配置方式不映射，直接使用 F13 Obsidian 配置3.1 单键插入有序列表 设置为 F13.1.1 理由html 里有序列表要 Tab 才能显示。这样插入有序列表离 Tab 键近  [!NOTE] TitleContents4 +Shift5 +Alt现在 F1 离两个 Alt 键都比较远，所以用来放不常用的唤出键，所以现在放的是唤出正则替换快捷键Regex Pipeline:Apply Ruleset 快捷键设置为  ` Alt ` + ` F1 `6 +Ctrl打开设置 快捷键设置为 Ctrl + 抑音符"
+      "content"  : "1 原位置F12 配置方式不映射，直接使用 F13 Obsidian 配置3.1 单键插入有序列表 设置为 F13.1.1 理由html 里有序列表要 Tab 才能显示。这样插入有序列表离 Tab 键近4 +Shift打开快速切换 设置为 Shift + F14.1 原因打开快速切换后主要要搜索笔记，用的是键盘输入区，所以可以把对应的快捷键放在左边5 +Shift+Ctrl暂未定，是单手按不出来的键Shift + Ctrl + F1"
     } ,
   
     {
       "title"    : "2023-02-09-and&amp;底色",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/09/and&%E5%BA%95%E8%89%B2/",
       "date"     : "2023-02-09 00:34:00 +0800",
       "content"  : "1 原位置F52 配置方式打开Powertoys键盘管理器启用键盘管理器-按键-重新映射键F5 到 Shift(Left) + 73 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可改变选中的文字的底色在Obsidian里给 增强编辑：转换彩色背景 1 设置快捷键 Ctrl + Shift (Left) + 74 可能性Alt + Shift + 7 未配置"
@@ -54,7 +134,7 @@
       "title"    : "2023-02-09-反斜杠&amp;音量加…",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/09/%E5%8F%8D%E6%96%9C%E6%9D%A0&%E9%9F%B3%E9%87%8F%E5%8A%A0/",
       "date"     : "2023-02-09 00:29:00 +0800",
       "content"  : "1 原位置F42 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F4 到 #92;2.1 中英文中文模式下输入 、英文模式下输入 #92;3 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可音量增加3.2 +Shift输入 |4 可能性Alt + Shift + #92; 未配置"
@@ -67,37 +147,37 @@
       "tags"     : "",
       "url"      : "/2023/02/09/Esc/",
       "date"     : "2023-02-09 00:16:00 +0800",
-      "content"  : "1 原位置Esc2 配置方式Esc 和 Fn 组合可以开启/关闭 F1-12 的功能键，现在默认是开启状态"
+      "content"  : "1 原位置Esc2 配置方式Esc 和 Fn 组合可以开启/关闭 F1-12 的功能键，现在默认是开启状态3 +Ctrl原本默认是等同于 Win，可以打开开始菜单，非常鸡肋，所以直接用 Ctrl(Left) + Esc 映射了 Ctrl + Shift + Insert ，现在是 截图并自动复制 的快捷键4 +ShiftShift + Esc 设置为 截图 快捷键5 +Ctrl+Shift默认为系统的 打开任务管理器 快捷键"
     } ,
   
     {
       "title"    : "2023-02-08-右括号&amp;音量减…",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/08/%E5%8F%B3%E6%8B%AC%E5%8F%B7&%E9%9F%B3%E9%87%8F%E5%87%8F/",
       "date"     : "2023-02-08 23:10:00 +0800",
-      "content"  : "1 原位置F32 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F3 到 Shift(Left) + 03 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可增加音量4 可能性Alt + Shift + 0 未配置"
+      "content"  : "1 原位置F32 配置方式打开Powertoys键盘管理器启用键盘管理器-按键-重新映射键F3 到 Shift(Left) + 03 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可增加音量4 可能性Alt + Shift + 0 未配置"
     } ,
   
     {
       "title"    : "2023-02-08-左括号&amp;静音键…",
       "category" : "键盘配置",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/08/%E5%B7%A6%E6%8B%AC%E5%8F%B7&%E9%9D%99%E9%9F%B3%E9%94%AE/",
       "date"     : "2023-02-08 23:03:00 +0800",
       "content"  : "1 原位置F32 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F2 到 Shift(Left) + 93 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可静音/取消静音4 可能性Alt + Shift + 9 未配置"
     } ,
   
     {
-      "title"    : "2023-02-08-星号键…",
-      "category" : "键盘配置",
+      "title"    : "2023-02-08-星号键",
+      "category" : "键盘配置/单键",
       "description" : "",
-      "tags"     : "",
+      "tags"     : "……",
       "url"      : "/2023/02/08/%E6%98%9F%E5%8F%B7%E9%94%AE/",
       "date"     : "2023-02-08 22:50:00 +0800",
-      "content"  : "1 原位置F62 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F6 到 *3 +CtrlObsidian 里设置 查找/替换 快捷键为 Ctrl + *4 +ShiftObsidian 里设置 横向展开 快捷键为 Shift + *5 +AltObsidian 里设置6 原位置F17 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F1 到 *8 可能性"
+      "content"  : "1 原位置F62 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F6 到 *3 +CtrlObsidian 里设置 查找/替换 快捷键为 Ctrl + *4 +ShiftObsidian 里设置 横向展开 快捷键为 Shift + *5 +AltObsidian 里设置 插入链接 快捷键为 Alt + *6 可能性Ctrl + Shift + *Alt +  Shift + *Ctrl + Alt + *"
     } ,
   
     {
@@ -137,7 +217,7 @@
       "tags"     : "",
       "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
       "date"     : "2023-02-08 21:31:00 +0800",
-      "content"  : "1 第一行Esc|(　）#92;　amp;　底色*1.1Esc|(　）#92;　|amp;　底色*"
+      "content"  : "1 第一行Esc|(　）#92;　amp;　底色*67890^　View ☆Insert切Delete1.1Esc|(　）#92;　|amp;　底色*67890^　View ☆Insert切Delete"
     } ,
   
     {
@@ -207,7 +287,7 @@
       "tags"     : "按钮",
       "url"      : "/2023/02/08/%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%8F%92%E5%85%A5%E6%8C%89%E9%92%AE/",
       "date"     : "2023-02-08 18:41:00 +0800",
-      "content"  : "1 基本格式lt;buttongt;按钮lt;/buttongt;1.1 错误的格式lt;buttongt;按钮lt;/buttongt;lt;/agt;1.2 原因虽然在 Obdidian 里显示的一样，但是在网页编译后多余的 lt;/agt; 会显示出来，同理在网页中插入表格也是如此。2 用文本指令插入按钮配置插入按钮动作3 进阶3.1 设置按钮的宽高3.2 错误的格式lt;button style=height:高度值;width:宽度值;gt;按钮lt;/buttongt;3.3 原因虽然在 Obdidian 里显示的一样，但是在网页编译后不会识别高度宽度数据3.3.1 参考html怎么设置按钮的大小3.4 插入跳转链接按钮lt;a href=https://www.baidu.com/gt;lt;buttongt;百度lt;/buttongt;3.4.1 参考HTML点击按钮button跳转页面的几种实现方法3.5 组合lt;a href=https://www.baidu.com/gt;lt;button style=height:200;width:100;gt;按钮lt;/buttongt;"
+      "content"  : "1 基本格式lt;buttongt;按钮lt;/buttongt;1.1 错误的格式lt;buttongt;按钮lt;/buttongt;lt;/agt;1.2 原因虽然在 Obdidian 里显示的一样，但是在网页编译后多余的 lt;/agt; 会显示出来，同理在网页中插入表格也是如此。2 用文本指令插入按钮配置插入按钮动作3 进阶3.1 设置按钮的宽高lt;button style=height:60px;width:20px;gt;按钮lt;/buttongt;3.2 错误的格式lt;button style=height:60;width:20;gt;按钮lt;/buttongt;3.3 原因虽然在 Obdidian 里显示的一样，但是在网页编译后不会识别高度宽度数据，必须自带单位3.3.1 参考html怎么设置按钮的大小3.4 插入跳转链接按钮lt;a href=https://www.baidu.com/gt;lt;buttongt;百度lt;/buttongt;3.4.1 参考HTML点击按钮button跳转页面的几种实现方法3.5 组合lt;a href=https://www.baidu.com/gt;lt;button style=height:200;width:100;gt;按钮lt;/buttongt;4 易错点4.1 多个按钮之间空行不均匀要把 lt;buttongt; 那句单独一行，如果和前面的 lt;a hrefgt; 那句黏在一起就会胡乱空行4.2 按钮里的图片可以点开这个暂时还没想到好的解决方法"
     } ,
   
     {
@@ -257,7 +337,7 @@
       "tags"     : "搜狗输入法",
       "url"      : "/2023/02/08/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%87%E7%82%B9/",
       "date"     : "2023-02-08 16:42:00 +0800",
-      "content"  : "1 配置方式右键 -常用设置-按键 P更多设置-属性设置-常用-标点符号-自定义标点2 功能有一篇参考文章，如果找到会贴进来"
+      "content"  : "1 配置方式右键2023-02-09-间隔符amp;View -常用设置-按键 P更多设置-属性设置-常用-标点符号-自定义标点2 功能有一篇参考文章，如果找到会贴进来"
     } ,
   
     {
