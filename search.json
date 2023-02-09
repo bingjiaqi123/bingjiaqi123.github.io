@@ -131,6 +131,16 @@
     } ,
   
     {
+      "title"    : "2023-02-08-键盘配置图",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
+      "date"     : "2023-02-08 21:31:00 +0800",
+      "content"  : "1 第一行Esc*(　）#92;　amp;　底色*1.1Esc|(　）#92;　|amp;　底色*"
+    } ,
+  
+    {
       "title"    : "2023-02-08-用键盘替代鼠标右键",
       "category" : "键盘配置",
       "description" : "",
@@ -308,16 +318,6 @@
       "url"      : "/2023/02/08/Jekyll%E5%A2%9E%E5%8A%A0%E9%A1%B6%E9%83%A8%E9%A1%B5%E9%9D%A2/",
       "date"     : "2023-02-08 08:44:00 +0800",
       "content"  : "jekyll_site#92;_includes#92;header. html"
-    } ,
-  
-    {
-      "title"    : "键盘配置图",
-      "category" : "",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
-      "date"     : "2023-02-08 00:00:00 +0800",
-      "content"  : "layout: posttitle: 2023-02-08-键盘配置图subtitle :author: jiaqidate: 2023-02-08 21:31updated: 2023-02-08 21:31categories: 键盘配置tags: —1 第一行Esc*(　）#92;　amp;　底色*1.1Esc|(　）#92;　|amp;　底色*"
     } ,
   
     {
