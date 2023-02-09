@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "2023-02-09-抑音符&amp;字色…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/%E6%8A%91%E9%9F%B3%E7%AC%A6&%E5%AD%97%E8%89%B2/",
+      "date"     : "2023-02-09 11:26:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-09-创建新文章",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/",
+      "date"     : "2023-02-09 11:23:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-09-6号键",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/6%E5%8F%B7%E9%94%AE/",
+      "date"     : "2023-02-09 09:40:00 +0800",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "2023-02-09-竖线…",
+      "category" : "键盘配置",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/09/%E7%AB%96%E7%BA%BF/",
+      "date"     : "2023-02-09 09:39:00 +0800",
+      "content"  : "1 原位置F12 配置方式不映射，直接使用 F13 Obsidian 配置3.1 单键插入有序列表 设置为 F13.1.1 理由html 里有序列表要 Tab 才能显示。这样插入有序列表离 Tab 键近  [!NOTE] TitleContents4 +Shift5 +Alt现在 F1 离两个 Alt 键都比较远，所以用来放不常用的唤出键，所以现在放的是唤出正则替换快捷键Regex Pipeline:Apply Ruleset 快捷键设置为  ` Alt ` + ` F1 `6 +Ctrl打开设置 快捷键设置为 Ctrl + 抑音符"
+    } ,
+  
+    {
       "title"    : "2023-02-09-and&amp;底色",
       "category" : "键盘配置",
       "description" : "",
@@ -17,7 +57,7 @@
       "tags"     : "",
       "url"      : "/2023/02/09/%E5%8F%8D%E6%96%9C%E6%9D%A0&%E9%9F%B3%E9%87%8F%E5%8A%A0/",
       "date"     : "2023-02-09 00:29:00 +0800",
-      "content"  : "1 原位置F42 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F4 到 #92;2.1 中英文中文模式下输入 、英文模式下输入 #92;3 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可音量增加4 可能性Alt + Shift + #92; 未配置"
+      "content"  : "1 原位置F42 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F4 到 #92;2.1 中英文中文模式下输入 、英文模式下输入 #92;3 组合键3.1 +Ctrl左 Ctrl 和左 Alt 均可音量增加3.2 +Shift输入 |4 可能性Alt + Shift + #92; 未配置"
     } ,
   
     {
@@ -57,7 +97,7 @@
       "tags"     : "",
       "url"      : "/2023/02/08/%E6%98%9F%E5%8F%B7%E9%94%AE/",
       "date"     : "2023-02-08 22:50:00 +0800",
-      "content"  : "1 原位置F12 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F1 到 *3 可能性单键相当于空的，但是可以用组合的快捷键去配置组合的快捷键"
+      "content"  : "1 原位置F62 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F6 到 *3 +CtrlObsidian 里设置 查找/替换 快捷键为 Ctrl + *4 +ShiftObsidian 里设置 横向展开 快捷键为 Shift + *5 +AltObsidian 里设置6 原位置F17 配置方式打开Powertoys键盘管理器启用键盘管理器 -按键-重新映射键F1 到 *8 可能性"
     } ,
   
     {
@@ -88,16 +128,6 @@
       "url"      : "/2023/02/08/%E9%85%8D%E7%BD%AE%E6%8F%92%E5%85%A5%E6%8C%89%E9%92%AE%E5%8A%A8%E4%BD%9C/",
       "date"     : "2023-02-08 21:42:00 +0800",
       "content"  : "1 配置动作打开lt;font color=#2dc26bgt;Quickerlt;/fontgt;2 配置文件导出2.1 静态 button_20230208_184814. json  Row: 2,  Col: 0,  ActionType: 24,  Title: 静态 button,  Description: ,  Icon: fa: Light_Terminal,  Path: null,  DelayMs: 0,  Data: #92;LimitSingleInstance#92;: true,#92;SummaryExpression#92;:#92;#92;,#92;SubPrograms#92;:[],#92;Variables#92;:[#92;Key#92;:#92;text#92;,#92;Type#92;:0,#92;Desc#92;:#92;默认的文本变量#92;,#92;DefaultValue#92;:#92;#92;,#92;SaveState#92;:false,#92;IsInput#92;:false,#92;IsOutput#92;:false,#92;ParamName#92;:null,#92;InputParamInfo#92;:null,#92;OutputParamInfo#92;:null,#92;TableDef#92;:null,#92;CustomType#92;:null],#92;Steps#92;:[#92;StepRunnerKey#92;:#92;sys:keyInput#92;,#92;InputParams#92;:#92;keys#92;:#92;VarKey#92;:null,#92;Value#92;:#92;#92;#92;#92;CtrlKeys#92;#92;#92;:[163],#92;#92;#92;Keys#92;#92;#92;:[188]#92;,#92;repeat#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;interval#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;holdMs#92;:#92;VarKey#92;:null,#92;Value#92;:#92;-1#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:getSelectedText#92;,#92;InputParams#92;:#92;format#92;:#92;VarKey#92;:null,#92;Value#92;:#92;UnicodeText#92;,#92;waitMs#92;:#92;VarKey#92;:null,#92;Value#92;:#92;250#92;,#92;repeat#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;trim#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;useActionParam#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;isSuccess#92;:null,#92;output#92;:#92;text#92;,#92;outputEncoded#92;:null,#92;url#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:stringProcess#92;,#92;InputParams#92;:#92;data#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;insert#92;,#92;start#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;value#92;:#92;VarKey#92;:null,#92;Value#92;:#92;lt;buttongt;#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;output#92;:#92;text#92;,#92;isSuccess#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:stringProcess#92;,#92;InputParams#92;:#92;data#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;append#92;,#92;value#92;:#92;VarKey#92;:null,#92;Value#92;:#92;lt;/buttongt;#92;,#92;stopIfFail#92;:#92;VarKey#92;:null,#92;Value#92;:#92;1#92;,#92;OutputParams#92;:#92;output#92;:#92;text#92;,#92;isSuccess#92;:null,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0,#92;StepRunnerKey#92;:#92;sys:outputText#92;,#92;InputParams#92;:#92;content#92;:#92;VarKey#92;:null,#92;Value#92;:#92;=text#92;,#92;method#92;:#92;VarKey#92;:null,#92;Value#92;:#92;paste#92;,#92;delayBeforePaste#92;:#92;VarKey#92;:null,#92;Value#92;:#92;50#92;,#92;delayAfterPaste#92;:#92;VarKey#92;:null,#92;Value#92;:#92;10#92;,#92;appendReturn#92;:#92;VarKey#92;:null,#92;Value#92;:#92;0#92;,#92;OutputParams#92;:,#92;IfSteps#92;:null,#92;ElseSteps#92;:null,#92;Note#92;:#92;#92;,#92;Disabled#92;:false,#92;Collapsed#92;:false,#92;DelayMs#92;:0],  Data2: null,  Data3: null,  Children: null,  Id: ed26a703-c7ba-49c0-80be-bf92180be2aa,  TemplateId: null,  TemplateRevision: 0,  UseTemplate: false,  LastEditTimeUtc: 2023-02-08T10:41:10.7664683+08:00,  SharedActionId: null,  ShareTimeUtc: null,  CreateTimeUtc: null,  AsSubProgram: false,  SkipWhenStopRunningActions: false,  SkipCheckUpdate: false,  AutoUpdate: false,  KeepInfoWhenUpdate: false,  MinQuickerVersion: ,  ContextMenuData: ,  AllowScrollTrigger: false,  EnableEvaluateVariable: false,  IsTextProcessor: false,  IsImageProcessor: false,  Association:     MatchProcess: null,    IsImageProcessor: false,    ReturnImageFromFirstScreenShotStep: true,    IsTextProcessor: false,    ReturnTextFromGetSelectedTextStep: true,    TextMatchExpression: ,    TextMinLength: 0,    TextMaxLength: 0,    IsHtmlProcessor: false,    IsFileProcessor: false,    FileMinCount: 0,    FileMaxCount: 0,    AllowedFileExtensions: ,    RequireAllFileMatchExt: false,    SearchBoxPlaceholder: ,    IsWindowProcessor: false,    EnableRealtimeSearch: false,    BrowserContextMenu: null,    UrlPattern:   ,  DoNotClosePanel: false3 设置文本指令缩写词 ;;☑启用☑输入法开启时，使用退格方式消除缩写词-绑定进程-选择窗口Obsidian触发字符 →"
-    } ,
-  
-    {
-      "title"    : "2023-02-08-键盘配置图",
-      "category" : "键盘配置",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
-      "date"     : "2023-02-08 21:31:00 +0800",
-      "content"  : "1 第一行Esc*(　）#92;　amp;　底色1.1Esc*(　）#92;　amp;　底色"
     } ,
   
     {
@@ -227,7 +257,7 @@
       "tags"     : "",
       "url"      : "/2023/02/08/%E7%94%B5%E8%84%91%E8%BE%93%E5%85%A5%E6%B3%95%E9%80%89%E6%8B%A9/",
       "date"     : "2023-02-08 16:29:00 +0800",
-      "content"  : "1 主力输入法：搜狗拼音输入法1.1 原因1. 支持一键唤出手写模式3. 词库丰富更新快，记忆常用词快4. 支持标点配对和自定义标点5. 支持自动网址补全和自定义短语，可以把常用符号放进2、3候选里6. 可以自由调节翻页和二、三候选的控制键1.2 配置搜狗拼音输入法配置2 进阶输入法：小鹤音形输入法2.1 原因1. 在任何一个输入法里几乎都小鹤双拼模式2. 有音形模式，学会后可以不用选词3. 手机端也有同样的输入法，可能比九宫格全拼要准确快速一些2.2 配置小鹤音形输入法配置"
+      "content"  : "1 主力输入法：搜狗拼音输入法1.1 原因1. 支持一键唤出手写模式2. 词库丰富更新快，记忆常用词快3. 支持标点配对和自定义标点4. 支持自动网址补全和自定义短语，可以把常用符号放进2、3候选里5. 可以自由调节翻页和二、三候选的控制键1.2 配置搜狗拼音输入法配置2 进阶输入法：小鹤音形输入法2.1 原因1. 在任何一个输入法里几乎都小鹤双拼模式2. 有音形模式，学会后可以不用选词3. 手机端也有同样的输入法，可能比九宫格全拼要准确快速一些2.2 配置小鹤音形输入法配置"
     } ,
   
     {
@@ -281,6 +311,16 @@
     } ,
   
     {
+      "title"    : "键盘配置图",
+      "category" : "",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/2023/02/08/%E9%94%AE%E7%9B%98%E9%85%8D%E7%BD%AE%E5%9B%BE/",
+      "date"     : "2023-02-08 00:00:00 +0800",
+      "content"  : "layout: posttitle: 2023-02-08-键盘配置图subtitle :author: jiaqidate: 2023-02-08 21:31updated: 2023-02-08 21:31categories: 键盘配置tags: —1 第一行Esc*(　）#92;　amp;　底色*1.1Esc|(　）#92;　|amp;　底色*"
+    } ,
+  
+    {
       "title"    : "2023-02-07-解决“在输入语言之间切换”的抑音符占用",
       "category" : "输入法",
       "description" : "",
@@ -321,16 +361,6 @@
     } ,
   
     {
-      "title"    : "2023-02-06-Obsidian表格最优路径",
-      "category" : "Obsidian",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/2023/02/06/Obsidian%E8%A1%A8%E6%A0%BC%E6%9C%80%E4%BC%98%E8%B7%AF%E5%BE%84/",
-      "date"     : "2023-02-06 20:39:00 +0800",
-      "content"  : ""
-    } ,
-  
-    {
       "title"    : "zk笔记",
       "category" : "",
       "description" : "",
@@ -338,16 +368,6 @@
       "url"      : "/2023/02/06/zk%E7%AC%94%E8%AE%B0/",
       "date"     : "2023-02-06 17:24:00 +0800",
       "content"  : "line:(Obsidian) file:2023file:2021 section:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) file:2021 block:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) file:2021 line:(Obsidian /#92;^(?![0-9]+)(?![a-zA-Z]+)[0-9A-Za-z_]6,6/) "
-    } ,
-  
-    {
-      "title"    : "2023-02-06-Obsidian空间优化",
-      "category" : "Obsidian",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/2023/02/06/Obsidian%E7%A9%BA%E9%97%B4%E4%BC%98%E5%8C%96/",
-      "date"     : "2023-02-06 08:01:00 +0800",
-      "content"  : "2023-01-27-Obsidian折叠块生成VBS转EXED:#92;Users#92;75722#92;logseq在线示意图网站"
     } ,
   
     {
