@@ -1,0 +1,31 @@
+ :root {
+    /* Sizes, weights, padding */
+    --h1:2em;
+    --h2:1.8em;
+    --h3:1.6em;
+    --h4:1.20em;
+    --h5:1em;
+    --h6:1em;
+
+    --yellow:#e5b567;
+    --green:#b4d273;
+    --orange:#e87d3e;
+    --purple:#9e86c8;
+    --pink:#b05279;
+    --blue:#6c99bb;
+
+    --h1-color:var(--pink);
+    --h2-color:var(--purple);
+    --h3-color:var(--orange);
+    --h4-color:var(--blue);
+    --h5-color:var(--text-normal);
+    --h6-color:var(--text-muted);
+}
+strong {
+    color: rgb(179, 153, 255, 0.95);
+    font-weight: 700;
+}
+  
+em {
+    color: #d05a63;
+}   
