@@ -1,0 +1,8 @@
+.markdown-embed-content>h1:first-child,
+.markdown-embed-content>h2:first-child,
+.markdown-embed-content>h3:first-child,
+.markdown-embed-content>h4:first-child,
+.markdown-embed-content>h5:first-child,
+.markdown-embed-content>h6:first-child {
+	display: none;
+}

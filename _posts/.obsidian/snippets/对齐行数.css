@@ -1,0 +1,9 @@
+/* Editor */
+.CodeMirror pre.CodeMirror-line,
+.markdown-source-view .cm-line,
+.cm-s-obsidian .cm-line {
+  font-optical-sizing: auto;
+  font-family: var(--font-editor);
+  line-height: var(--line-height-1);
+  letter-spacing: var(--tracking-0);
+}

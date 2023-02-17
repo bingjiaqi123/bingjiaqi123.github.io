@@ -1,0 +1,5 @@
+/*─────────Vault Title──────────*/
+.nav-folder.mod-root > .nav-folder-title[data-path="/"] {
+    font-size:0
+  }
+  

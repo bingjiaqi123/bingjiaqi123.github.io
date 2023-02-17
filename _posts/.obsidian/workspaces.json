@@ -1,0 +1,166 @@
+{
+  "workspaces": {
+    "搜索-大纲-笔记2-预览": {
+      "main": {
+        "id": "9bcf694803e8356f",
+        "type": "split",
+        "children": [
+          {
+            "id": "7c56671f04bbcd35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "46aef156189d2e78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "undone/undone.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "974d1881d9fe1997"
+              },
+              {
+                "id": "91bd2d205f27db2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "undone/undone.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ab14c2248641be8d",
+        "type": "split",
+        "children": [
+          {
+            "id": "9bd657a8ec7cf18e",
+            "type": "tabs",
+            "dimension": 32.863849765258216,
+            "children": [
+              {
+                "id": "50fa6df6a30b1c31",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "df6f198fa38747c5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "ef953f2ea4a24a28",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "03deb5715bdf93ad",
+            "type": "tabs",
+            "dimension": 67.13615023474179,
+            "children": [
+              {
+                "id": "0a927df6e61eec65",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "undone/undone.md"
+                  }
+                }
+              },
+              {
+                "id": "c922c7ec2c3fd8fe",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.5
+      },
+      "right": {
+        "id": "8902c0416da4e66f",
+        "type": "split",
+        "children": [
+          {
+            "id": "68883d5abb6b17a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d2f9202d202220c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "undone/undone.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "974d1881d9fe1997"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 349.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-regex-pipeline:Regex Rulesets": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "surfing:surfing-bookmark-manager": false
+        }
+      },
+      "active": "6d2f9202d202220c"
+    }
+  },
+  "active": "搜索-大纲-笔记2-预览"
+}

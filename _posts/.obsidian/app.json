@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "mobilePullAction": "insert-template",
+  "mobileToolbarCommands": [
+    "editor:redo",
+    "editor:undo",
+    "editor:insert-link",
+    "editor:set-heading",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:toggle-code",
+    "editor:insert-wikilink",
+    "editor:configure-toolbar",
+    "editor:toggle-blockquote"
+  ],
+  "showFrontmatter": true,
+  "autoConvertHtml": true,
+  "useMarkdownLinks": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "/"
+}

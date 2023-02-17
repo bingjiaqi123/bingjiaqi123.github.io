@@ -1,0 +1,25 @@
+{
+  "baseFontSize": 19,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "obsidian",
+    "两端对齐",
+    "所见即所得",
+    "悬停放大",
+    "文件列表样式",
+    "侧边栏图标颜色",
+    "对齐行数",
+    "更大的链接弹出预览",
+    "减左边第二行",
+    "尽可能缩减左栏",
+    "紧凑预览",
+    "文件夹",
+    "文件列表紧凑排布",
+    "深色模式突出显示选中的文件夹",
+    "隐藏UI",
+    "自定义图标"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "obsidian",
+  "baseFontSizeAction": false
+}

@@ -1,0 +1,188 @@
+{
+  "choices": [
+    {
+      "id": "6c2f944b-86cc-4547-aa3e-b53c08537029",
+      "name": "新文章",
+      "type": "捕获",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "undone/{{DATE:YYYY-MM-DD-}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "a929cfd6-3b0c-499f-bb03-edaea0f5a1ac",
+      "name": "gdfgdf",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "66a690fa-2c7e-4b88-9888-01c8a399f590",
+      "name": "dgsdfgfghfd",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
+    },
+    {
+      "id": "279d3300-f0f3-4593-b5b4-f37bec9911a2",
+      "name": "gdfg",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6fb65fd7-4a33-4522-be92-29ef36c7206f",
+      "name": "gfdgdhjh",
+      "type": "Multi",
+      "command": false,
+      "choices": [],
+      "collapsed": false
+    },
+    {
+      "id": "3649febe-4d8b-444a-8c42-0228b1d82a22",
+      "name": "宏1",
+      "type": "宏",
+      "command": false,
+      "macroId": "4a7496b4-e9ab-474f-ac36-b4bd09688865"
+    },
+    {
+      "id": "d2e89736-8fc7-4111-b5e6-fe0c1a0621c2",
+      "name": "多种1",
+      "type": "多种",
+      "command": false,
+      "choices": [],
+      "collapsed": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "一",
+      "id": "4a7496b4-e9ab-474f-ac36-b4bd09688865",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d7937056-0992-4cd5-974e-848f676dd696",
+          "time": 100
+        },
+        {
+          "name": "命未名的 捕获 选择",
+          "type": "NestedChoice",
+          "id": "f30068de-0a08-49be-a4e6-ed365e3f8dea",
+          "choice": {
+            "id": "5f7e68d5-1c41-48a2-b5f7-920ee526eb3d",
+            "name": "命未名的 捕获 选择",
+            "type": "捕获",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "三",
+      "id": "188364a4-30a2-44a2-8033-d0185a8f1ca5",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ]
+}

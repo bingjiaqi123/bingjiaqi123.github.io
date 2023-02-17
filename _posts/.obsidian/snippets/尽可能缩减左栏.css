@@ -1,0 +1,5 @@
+/*─────────Node Insert Event──────────*/
+.workspace-split.mod-left-split .node-insert-event,
+.workspace-split.mod-right-split .node-insert-event {
+  padding: var(--scale-0-0) var(--scale-0-0) var(--scale-0-0) var(--scale-0-0);
+}

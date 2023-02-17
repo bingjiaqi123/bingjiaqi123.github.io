@@ -1,0 +1,7 @@
+"^\[\d\d\d\d-\d\d-\d\d-"gm->"["
+"\-"gm->"/"
+"\…"gm->"123"x
+"\("gm->"(https://bingjiaqi123.github.io/"
+".md\)$"gm->"/)"
+"\“"gm->"-"
+"\”"gm->"-

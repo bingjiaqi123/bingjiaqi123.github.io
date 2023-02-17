@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "9bcf694803e8356f",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a0073f0c17d1a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72168a63eef5284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "undone/undone.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9449756258b18682",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c72e081cb3ee716",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25a1b7e16422876f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f75cc95645d989c3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e824b06e96b607c1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "12404d6b9b131cfa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55ffccc2fe80fbee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "undone/undone.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b7847370958851cc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "undone/undone.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7c72e081cb3ee716",
+  "lastOpenFiles": [
+    "Home.md",
+    "undone/键盘配置/单键/第一行/2023-02-09-竖线.md",
+    "未命名.md",
+    "undone/Untitled.md",
+    "2023-02-09.md",
+    "template/blog.md",
+    "undone/2023-02-07-电脑键盘输入法配置.md",
+    "undone/手机端插件.md",
+    "undone/快捷键.md",
+    "undone/2023-02-06-.md"
+  ]
+}

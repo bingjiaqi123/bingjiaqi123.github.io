@@ -1,0 +1,8 @@
+/* Preview */
+.markdown-preview-view {
+    font-optical-sizing: auto;
+    font-family: var(--font-preview);
+    line-height: var(--line-height-0);
+    letter-spacing: var(--tracking-0);
+    padding: var(--scale-0-0) 0px;
+  }

@@ -1,0 +1,8 @@
+.nav-folder-title, .nav-file-title {
+  font-size: var(--font-scale-0-5);
+  line-height: var(--line-height-0-5);
+  width: 100%;
+  padding: calc(1px + var(--scale-0-1)) var(--scale-0-0) calc(1px + var(--scale-0-0)) var(--scale-0-);
+  border-radius: var(--scale-0-0);
+  transition: var(--duration-superfast) var(--motion-smooth);
+}

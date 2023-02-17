@@ -1,0 +1,5 @@
+/*未启用，让文件名完整显示*/
+.nav-folder-title, .nav-file-title-content {
+  text-overflow: unset;
+  white-space: normal;
+}

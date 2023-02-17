@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "defaultNote": "undone/undone",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "workspace": "搜索-大纲-笔记2-预览",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": true,
+  "openMode": "Replace all open notes",
+  "manualOpenMode": "Keep open notes",
+  "view": "Default view",
+  "revertView": true,
+  "refreshDataview": false,
+  "autoCreate": true,
+  "autoScroll": true,
+  "pin": true
+}

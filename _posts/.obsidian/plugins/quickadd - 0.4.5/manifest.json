@@ -1,0 +1,10 @@
+{
+	"id": "quickadd",
+	"name": "快速添加",
+	"version": "0.4.5",
+	"minAppVersion": "0.12.5",
+	"description": "快速添加新页面或内容到您的知识库。",
+	"author": "Christian B. B. Houmann",
+	"authorUrl": "https://bagerbach.com",
+	"isDesktopOnly": false
+}

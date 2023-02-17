@@ -1,0 +1,32 @@
+.nav-folder-children .nav-file-title-content:first-child::before {
+;
+  }
+.nav-folder-children .nav-folder-title::before {
+    content: '📂 '; 
+  } 
+.nav-folder-title-content::before { content: '📂 '; }*/
+
+div[data-path="_Inbox"] .nav-folder-title-content::before
+{
+  content: "📥";
+}
+
+div[data-path="Attachments"] .nav-folder-title-content::before
+{
+  content: "📋";
+}
+
+div[data-path="Bible Resources"] .nav-folder-title-content::before
+{
+  content: "⚔️";
+}
+
+div[data-path="Notes"] .nav-folder-title-content::before
+{
+  content: "📝";
+}
+
+div[data-path="Notes/Daily"] .nav-folder-title-content::before
+{
+  content: "📆";
+}

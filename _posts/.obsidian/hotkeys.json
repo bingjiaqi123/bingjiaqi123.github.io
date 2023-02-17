@@ -1,0 +1,392 @@
+{
+  "templater-obsidian:template/excel.md": [],
+  "templater-obsidian:template/excel-extended.md": [],
+  "templater-obsidian:template/折叠.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:open-link-in-new-window": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:biaoti0-text": [],
+  "Enhanced-editing:biaoti1-text": [],
+  "Enhanced-editing:biaoti2-text": [],
+  "Enhanced-editing:biaoti3-text": [],
+  "Enhanced-editing:biaoti4-text": [],
+  "Enhanced-editing:biaoti5-text": [],
+  "Enhanced-editing:biaoti6-text": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "buttons:button-maker": [],
+  "editor:save-file": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "*"
+    }
+  ],
+  "editor:follow-link": [],
+  "Enhanced-editing:Selection-text": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "Enhanced-editing:shanchu-text": [],
+  "obsidian-regex-pipeline:apply-ruleset": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
+    }
+  ],
+  "Enhanced-editing:mouse-left": [],
+  "quickadd:选择:6c2f944b-86cc-4547-aa3e-b53c08537029": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "Enhanced-editing:mouse-right": [],
+  "Enhanced-editing:tag-text": [],
+  "Enhanced-editing:text-Color1": [],
+  "Enhanced-editing:text-Color2": [],
+  "Enhanced-editing:text-Color3": [],
+  "Enhanced-editing:text-Color4": [],
+  "Enhanced-editing:text-Color5": [],
+  "Enhanced-editing:add-Line0": [],
+  "Enhanced-editing:add-lines": [],
+  "buttons:inline-button": [],
+  "Enhanced-editing:auto-texts": [],
+  "Enhanced-editing:zhe-level2": [],
+  "Enhanced-editing:zhe-level6": [],
+  "Enhanced-editing:zhe-level3": [],
+  "Enhanced-editing:zhe-level4": [],
+  "Enhanced-editing:zhe-lines": [],
+  "Enhanced-editing:zhe-level5": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "editor:set-heading-2": [],
+  "editor:set-heading-3": [],
+  "Enhanced-editing:jian-btexts": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "Enhanced-editing:zeng-btexts": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:undo-close-pane": [],
+  "workspace:previous-tab": [],
+  "workspace:next-tab": [],
+  "workspace:goto-last-tab": [],
+  "editor:fold-all": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "Enhanced-editing:text-background2": [],
+  "Enhanced-editing:text-background3": [],
+  "Enhanced-editing:text-background4": [],
+  "Enhanced-editing:text-background5": [],
+  "Enhanced-editing:text-background1": [],
+  "app:open-help": [],
+  "note-composer:split-file": [],
+  "note-composer:extract-heading": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
+  ],
+  "Enhanced-editing:Selection-juzi": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editing-toolbar:editor:toggle-numbered-list": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "editor:toggle-italics": [],
+  "workspace:new-tab": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-split": [],
+  "workspace:close-window": [],
+  "Enhanced-editing:xiahua-format": [],
+  "Enhanced-editing:internal-link2": [],
+  "Enhanced-editing:cuti-format": [],
+  "Enhanced-editing:xieti-text": [],
+  "Enhanced-editing:xieti-format": [],
+  "Enhanced-editing:gaoliang-format": [],
+  "Enhanced-editing:copy-text": [],
+  "Enhanced-editing:jisuan-form": [],
+  "Enhanced-editing:list-mermaid": [],
+  "Enhanced-editing:set-mode": [],
+  "editor:delete-paragraph": [],
+  "Enhanced-editing:link-showname": [],
+  "Enhanced-editing:mouse-up": [],
+  "Enhanced-editing:mouse-down": [],
+  "Enhanced-editing:mouse-start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "Enhanced-editing:mouse-end": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "Enhanced-editing:auto-text": [],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "editing-toolbar:fullscreen-focus": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "*"
+    }
+  ],
+  "Enhanced-editing:leftWin-Down": [],
+  "Enhanced-editing:leftWin-Up": [],
+  "Enhanced-editing:common-text": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "*"
+    }
+  ],
+  "editor:open-search": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "editing-toolbar:header0-text": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F10"
+    }
+  ],
+  "editing-toolbar:workplace-fullscreen-focus": [],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "editor:attach-file": [],
+  "outline:open-for-current": [],
+  "app:open-vault": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editing-toolbar:undent-list": [],
+  "insert-template": [],
+  "editor:insert-callout": [],
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F6"
+    }
+  ],
+  "editing-toolbar:change-background-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F1"
+    }
+  ],
+  "Enhanced-editing:note-start": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "Enhanced-editing:note-end": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "editor:toggle-source": [],
+  "templater-obsidian:template/blog.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "note-composer:merge-file": [],
+  "Enhanced-editing:shanchu-format": [],
+  "Enhanced-editing:delete-list": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "Enhanced-editing:xiahua-text": [],
+  "Enhanced-editing:open-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "Enhanced-editing:open-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
+}

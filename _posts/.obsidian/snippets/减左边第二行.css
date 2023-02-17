@@ -1,0 +1,9 @@
+/*────────────────────────────────────
+            Nav Header
+────────────────────────────────────*/
+/*─────────Nav Header Container──────────*/
+.workspace-split.mod-left-split .nav-header,
+.workspace-split.mod-right-split .nav-header {
+  padding: var(--scale-0-0) var(--scale-0-0) var(--scale-0-0) var(--scale-0-0);
+  margin: var(--scale-0-0) var(--scale-0-0) var(--scale-0-0) var(--scale-0-0);
+}

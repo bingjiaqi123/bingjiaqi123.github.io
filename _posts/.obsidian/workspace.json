@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9bcf694803e8356f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e59a16f752a523a",
+        "type": "tabs",
+        "dimension": 71.86411149825784,
+        "children": [
+          {
+            "id": "c578794176743135",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-bookmark-manager",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3098c17ae68901f7",
+        "type": "tabs",
+        "dimension": 28.135888501742162,
+        "children": [
+          {
+            "id": "0adcd0b9fc7641f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "undone/undone.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab14c2248641be8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd657a8ec7cf18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50fa6df6a30b1c31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "df6f198fa38747c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "9号键",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "ebae1476f30199a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "8902c0416da4e66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27197e99a2898e0",
+        "type": "tabs",
+        "dimension": 45.594713656387654,
+        "children": [
+          {
+            "id": "ef953f2ea4a24a28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "09b00f38ea9c2ac4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "undone/undone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e34785346fccaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "undone/undone.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a5df1019952061e",
+        "type": "tabs",
+        "dimension": 54.405286343612346,
+        "children": [
+          {
+            "id": "92099f93f2b7facf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "undone/undone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "surfing:surfing-bookmark-manager": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "c578794176743135",
+  "lastOpenFiles": [
+    "undone/键盘配置/键盘配置.md",
+    "undone/undone.md",
+    "undone/2023-02-07-键盘配置.md",
+    "undone/输入法/搜狗输入法/2023-02-08-搜狗输入法自定义标点.md",
+    "undone/输入法/搜狗输入法/2023-02-08-搜狗输入法自定义短语.md",
+    "undone/输入法/搜狗输入法/搜狗输入法.md",
+    "undone/输入法/小鹤音形/2023-02-07-小鹤音形输入法安装与配置.md",
+    "undone/输入法/小鹤音形/2023-02-08-小鹤音形输入法语言热键配置.md",
+    "undone/Obsidian/2023-02-06-增强编辑插件.md",
+    "undone/Obsidian/CSS/2023-02-10-自定义图标差异文件和文件夹.css修改.md"
+  ]
+}
